@@ -4,7 +4,22 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+**Tec de MTY**
+Repositorio para Proyecto Integrador de la Maestría MNA
+
+## Diseño Acelerado de Fármacos
+
+*Docentes*
+
+ - Dra. Grettel Barceló Alonso - Profesor Titular
+ - Dr. Luis Eduardo Falcón Morales - Profesor Titular
+ - TBD - Profesor Tutor 
+
+*Alumnos:* 
+
+ - Alejandro Emmanuel Silva Ortega - A01794545
+ - Jose Luis Artigas Arroyo - A01794906
+ - José Luis Fabela Portillo - A00748551
 
 ## Project Organization
 
