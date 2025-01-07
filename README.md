@@ -7,7 +7,7 @@
 **Tec de MTY**
 Repositorio para Proyecto Integrador de la Maestría MNA
 
-## Diseño Acelerado de Fármacos
+## Equipo 1 - Diseño Acelerado de Fármacos
 
 *Docentes*
 
@@ -17,9 +17,9 @@ Repositorio para Proyecto Integrador de la Maestría MNA
 
 *Alumnos:* 
 
- - Alejandro Emmanuel Silva Ortega - A01794545
  - Jose Luis Artigas Arroyo - A01794906
  - José Luis Fabela Portillo - A00748551
+ - Alejandro Emmanuel Silva Ortega - A01794545
 
 ## Project Organization
 
