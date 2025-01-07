@@ -515,3 +515,6 @@ yfinance==0.2.49
 zipp==3.21.0
 chembl_webresource_client
 rdkit
+dvc
+dvc[gs]
+dvc_gdrive
