@@ -1,0 +1,4 @@
+[core]
+    remote = advanced_drug
+['remote "advanced_drug"']
+    url = gdrive://1O9fUBFhp_ugRwVYTtCWghLGOtwBQYqZl/dvcstore
