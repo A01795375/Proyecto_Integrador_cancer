@@ -1,0 +1,10 @@
+params:
+- params.yaml
+stages:
+  load_data:
+    cmd: python ${data.srcpath}data_load.py ${data.data_sets}
+    deps:
+    - ${data.srcpath}data_load.py
+    #- ${data.filepath}
+    outs:
+    - ${data.data_sets}raw\bioactivity_data.csvdata_load

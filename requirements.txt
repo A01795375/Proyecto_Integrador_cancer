@@ -518,3 +518,6 @@ rdkit
 dvc
 dvc[gs]
 dvc_gdrive
+lazypredict
+scikit-optimize
+dask-expr
