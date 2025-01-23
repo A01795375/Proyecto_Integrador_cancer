@@ -13,7 +13,7 @@ Repositorio para Proyecto Integrador de la Maestría MNA
 
  - Dra. Grettel Barceló Alonso - Profesor Titular
  - Dr. Luis Eduardo Falcón Morales - Profesor Titular
- - TBD - Profesor Tutor 
+ - Horacio Martinez Alfaro - Profesor Tutor 
 
 *Alumnos:* 
 
