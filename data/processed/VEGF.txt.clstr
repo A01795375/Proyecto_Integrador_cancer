@@ -26,95 +26,90 @@
 0	84aa, >a0... *
 >Cluster 11
 0	84aa, >a0... *
->Cluster 12
-0	84aa, >a0... *
 1	46aa, >a0... at 100.00%
->Cluster 13
+>Cluster 12
 0	29aa, >a0... at 100.00%
 1	14aa, >a0... at 100.00%
 2	19aa, >a0... at 100.00%
 3	15aa, >a0... at 100.00%
 4	83aa, >a0... *
 5	74aa, >a0... at 100.00%
->Cluster 14
+>Cluster 13
 0	83aa, >a0... *
->Cluster 15
+>Cluster 14
 0	81aa, >a0... *
+>Cluster 15
+0	78aa, >a0... *
 >Cluster 16
 0	78aa, >a0... *
 >Cluster 17
-0	78aa, >a0... *
->Cluster 18
 0	27aa, >a0... at 100.00%
 1	20aa, >a0... at 100.00%
 2	78aa, >a0... *
->Cluster 19
+>Cluster 18
 0	77aa, >a0... *
 1	25aa, >a0... at 100.00%
->Cluster 20
+>Cluster 19
 0	75aa, >a0... *
->Cluster 21
+>Cluster 20
 0	74aa, >a0... *
->Cluster 22
+>Cluster 21
 0	16aa, >a0... at 100.00%
 1	15aa, >a0... at 100.00%
 2	72aa, >a0... *
+>Cluster 22
+0	16aa, >a0... at 100.00%
+1	72aa, >a0... *
 >Cluster 23
 0	16aa, >a0... at 100.00%
 1	72aa, >a0... *
 >Cluster 24
-0	16aa, >a0... at 100.00%
-1	72aa, >a0... *
->Cluster 25
 0	71aa, >a0... *
->Cluster 26
+>Cluster 25
 0	70aa, >a0... *
+>Cluster 26
+0	65aa, >a0... *
 >Cluster 27
 0	65aa, >a0... *
 >Cluster 28
-0	65aa, >a0... *
->Cluster 29
 0	15aa, >a0... at 100.00%
 1	17aa, >a0... at 100.00%
 2	64aa, >a0... *
->Cluster 30
+>Cluster 29
 0	63aa, >a0... *
+>Cluster 30
+0	62aa, >a0... *
 >Cluster 31
 0	62aa, >a0... *
 >Cluster 32
-0	62aa, >a0... *
->Cluster 33
 0	61aa, >a0... *
+>Cluster 33
+0	60aa, >a0... *
 >Cluster 34
 0	60aa, >a0... *
 >Cluster 35
 0	60aa, >a0... *
 >Cluster 36
-0	60aa, >a0... *
->Cluster 37
 0	21aa, >a0... at 100.00%
 1	22aa, >a0... at 100.00%
 2	22aa, >a0... at 100.00%
 3	23aa, >a0... at 100.00%
 4	60aa, >a0... *
 5	13aa, >a0... at 100.00%
->Cluster 38
+>Cluster 37
 0	59aa, >a0... *
+>Cluster 38
+0	58aa, >a0... *
 >Cluster 39
 0	58aa, >a0... *
 >Cluster 40
-0	58aa, >a0... *
->Cluster 41
 0	29aa, >a0... at 100.00%
 1	57aa, >a0... *
->Cluster 42
+>Cluster 41
 0	54aa, >a0... *
->Cluster 43
+>Cluster 42
 0	53aa, >a0... *
->Cluster 44
-0	26aa, >a0... at 100.00%
-1	53aa, >a0... *
->Cluster 45
+>Cluster 43
 0	16aa, >a0... at 100.00%
 1	13aa, >a0... at 100.00%
 2	15aa, >a0... at 100.00%
@@ -126,52 +121,59 @@
 8	14aa, >a0... at 100.00%
 9	12aa, >a0... at 100.00%
 10	11aa, >a0... at 100.00%
-11	53aa, >a0... *
->Cluster 46
+11	16aa, >a0... at 100.00%
+12	53aa, >a0... *
+>Cluster 44
 0	53aa, >a0... *
->Cluster 47
+>Cluster 45
 0	51aa, >a0... *
->Cluster 48
+>Cluster 46
 0	14aa, >a0... at 100.00%
 1	21aa, >a0... at 100.00%
-2	51aa, >a0... *
->Cluster 49
+2	14aa, >a0... at 100.00%
+3	51aa, >a0... *
+>Cluster 47
 0	50aa, >a0... *
->Cluster 50
+>Cluster 48
 0	17aa, >a0... at 100.00%
 1	50aa, >a0... *
 2	17aa, >a0... at 100.00%
->Cluster 51
+>Cluster 49
 0	50aa, >a0... *
->Cluster 52
+>Cluster 50
 0	49aa, >a0... at 100.00%
 1	50aa, >a0... *
->Cluster 53
+>Cluster 51
 0	49aa, >a0... *
->Cluster 54
+>Cluster 52
 0	49aa, >a0... *
 1	19aa, >a0... at 100.00%
 2	13aa, >a0... at 100.00%
 3	16aa, >a0... at 100.00%
 4	19aa, >a0... at 100.00%
 5	22aa, >a0... at 100.00%
->Cluster 55
+6	22aa, >a0... at 100.00%
+>Cluster 53
 0	49aa, >a0... *
+>Cluster 54
+0	48aa, >a0... *
+>Cluster 55
+0	48aa, >a0... *
 >Cluster 56
-0	48aa, >a0... *
->Cluster 57
-0	48aa, >a0... *
->Cluster 58
 0	40aa, >a0... at 100.00%
 1	48aa, >a0... *
 2	22aa, >a0... at 100.00%
 3	24aa, >a0... at 100.00%
 4	17aa, >a0... at 100.00%
->Cluster 59
+>Cluster 57
 0	48aa, >a0... *
->Cluster 60
+>Cluster 58
 0	47aa, >a0... *
 1	45aa, >a0... at 100.00%
+>Cluster 59
+0	47aa, >a0... *
+>Cluster 60
+0	47aa, >a0... *
 >Cluster 61
 0	47aa, >a0... *
 >Cluster 62
@@ -193,22 +195,24 @@
 >Cluster 70
 0	47aa, >a0... *
 >Cluster 71
-0	47aa, >a0... *
+0	20aa, >a0... at 100.00%
+1	47aa, >a0... *
 >Cluster 72
 0	47aa, >a0... *
 >Cluster 73
-0	20aa, >a0... at 100.00%
-1	47aa, >a0... *
+0	47aa, >a0... *
 >Cluster 74
 0	47aa, >a0... *
 >Cluster 75
 0	47aa, >a0... *
 >Cluster 76
-0	47aa, >a0... *
+0	46aa, >a0... *
 >Cluster 77
-0	47aa, >a0... *
+0	46aa, >a0... *
+1	39aa, >a0... at 100.00%
 >Cluster 78
 0	46aa, >a0... *
+1	39aa, >a0... at 100.00%
 >Cluster 79
 0	46aa, >a0... *
 1	39aa, >a0... at 100.00%
@@ -226,18 +230,16 @@
 1	39aa, >a0... at 100.00%
 >Cluster 84
 0	46aa, >a0... *
-1	39aa, >a0... at 100.00%
 >Cluster 85
-0	46aa, >a0... *
-1	39aa, >a0... at 100.00%
->Cluster 86
-0	46aa, >a0... *
->Cluster 87
 0	16aa, >a0... at 100.00%
 1	45aa, >a0... *
->Cluster 88
+>Cluster 86
 0	45aa, >a0... *
 1	15aa, >a0... at 100.00%
+>Cluster 87
+0	45aa, >a0... *
+>Cluster 88
+0	45aa, >a0... *
 >Cluster 89
 0	45aa, >a0... *
 >Cluster 90
@@ -247,73 +249,63 @@
 >Cluster 92
 0	45aa, >a0... *
 >Cluster 93
-0	45aa, >a0... *
+0	37aa, >a0... at 100.00%
+1	41aa, >a0... at 100.00%
+2	45aa, >a0... *
 >Cluster 94
-0	45aa, >a0... *
+0	37aa, >a0... at 100.00%
+1	41aa, >a0... at 100.00%
+2	45aa, >a0... *
 >Cluster 95
-0	37aa, >a0... at 100.00%
-1	41aa, >a0... at 100.00%
-2	45aa, >a0... *
+0	43aa, >a0... *
 >Cluster 96
-0	37aa, >a0... at 100.00%
-1	41aa, >a0... at 100.00%
-2	45aa, >a0... *
+0	43aa, >a0... *
 >Cluster 97
 0	43aa, >a0... *
 >Cluster 98
-0	43aa, >a0... *
->Cluster 99
-0	43aa, >a0... *
->Cluster 100
 0	17aa, >a0... at 100.00%
 1	43aa, >a0... *
 2	18aa, >a0... at 100.00%
+>Cluster 99
+0	42aa, >a0... *
+>Cluster 100
+0	42aa, >a0... *
+1	35aa, >a0... at 100.00%
 >Cluster 101
 0	42aa, >a0... *
 >Cluster 102
 0	42aa, >a0... *
-1	35aa, >a0... at 100.00%
 >Cluster 103
 0	42aa, >a0... *
 >Cluster 104
-0	42aa, >a0... *
->Cluster 105
-0	42aa, >a0... *
->Cluster 106
 0	23aa, >a0... at 100.00%
 1	42aa, >a0... *
->Cluster 107
+>Cluster 105
 0	41aa, >a0... *
 1	32aa, >a0... at 100.00%
->Cluster 108
+>Cluster 106
 0	41aa, >a0... *
+>Cluster 107
+0	40aa, >a0... *
+>Cluster 108
+0	40aa, >a0... *
 >Cluster 109
 0	40aa, >a0... *
 >Cluster 110
 0	40aa, >a0... *
 >Cluster 111
-0	40aa, >a0... *
->Cluster 112
-0	40aa, >a0... *
->Cluster 113
 0	12aa, >a0... at 100.00%
 1	40aa, >a0... *
->Cluster 114
+>Cluster 112
 0	40aa, >a0... *
 1	35aa, >a0... at 100.00%
->Cluster 115
+>Cluster 113
 0	40aa, >a0... *
->Cluster 116
-0	13aa, >a0... at 100.00%
-1	12aa, >a0... at 100.00%
-2	11aa, >a0... at 100.00%
-3	26aa, >a0... at 100.00%
-4	40aa, >a0... *
->Cluster 117
+>Cluster 114
 0	24aa, >a0... at 100.00%
 1	35aa, >a0... at 100.00%
 2	40aa, >a0... *
->Cluster 118
+>Cluster 115
 0	14aa, >a0... at 100.00%
 1	25aa, >a0... at 100.00%
 2	40aa, >a0... *
@@ -324,33 +316,39 @@
 7	38aa, >a0... at 100.00%
 8	11aa, >a0... at 100.00%
 9	23aa, >a0... at 100.00%
+>Cluster 116
+0	39aa, >a0... *
+>Cluster 117
+0	39aa, >a0... *
+>Cluster 118
+0	39aa, >a0... *
 >Cluster 119
 0	39aa, >a0... *
 >Cluster 120
 0	39aa, >a0... *
 >Cluster 121
-0	39aa, >a0... *
+0	21aa, >a0... at 100.00%
+1	17aa, >a0... at 100.00%
+2	39aa, >a0... *
 >Cluster 122
 0	39aa, >a0... *
 >Cluster 123
 0	39aa, >a0... *
 >Cluster 124
-0	39aa, >a0... *
->Cluster 125
-0	21aa, >a0... at 100.00%
-1	17aa, >a0... at 100.00%
-2	39aa, >a0... *
->Cluster 126
-0	39aa, >a0... *
->Cluster 127
-0	39aa, >a0... *
->Cluster 128
 0	38aa, >a0... *
 1	14aa, >a0... at 100.00%
 2	18aa, >a0... at 100.00%
->Cluster 129
+>Cluster 125
 0	21aa, >a0... at 100.00%
 1	38aa, >a0... *
+>Cluster 126
+0	38aa, >a0... *
+>Cluster 127
+0	38aa, >a0... *
+>Cluster 128
+0	38aa, >a0... *
+>Cluster 129
+0	38aa, >a0... *
 >Cluster 130
 0	38aa, >a0... *
 >Cluster 131
@@ -360,7 +358,9 @@
 >Cluster 133
 0	38aa, >a0... *
 >Cluster 134
-0	38aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	14aa, >a0... at 100.00%
+2	38aa, >a0... *
 >Cluster 135
 0	38aa, >a0... *
 >Cluster 136
@@ -368,29 +368,19 @@
 >Cluster 137
 0	38aa, >a0... *
 >Cluster 138
-0	12aa, >a0... at 100.00%
-1	14aa, >a0... at 100.00%
-2	38aa, >a0... *
+0	38aa, >a0... *
 >Cluster 139
 0	38aa, >a0... *
 >Cluster 140
-0	38aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	38aa, >a0... *
 >Cluster 141
 0	38aa, >a0... *
 >Cluster 142
 0	38aa, >a0... *
 >Cluster 143
-0	38aa, >a0... *
->Cluster 144
-0	12aa, >a0... at 100.00%
-1	38aa, >a0... *
->Cluster 145
-0	38aa, >a0... *
->Cluster 146
-0	38aa, >a0... *
->Cluster 147
 0	37aa, >a0... *
->Cluster 148
+>Cluster 144
 0	27aa, >a0... at 100.00%
 1	16aa, >a0... at 100.00%
 2	13aa, >a0... at 100.00%
@@ -398,6 +388,15 @@
 4	37aa, >a0... *
 5	12aa, >a0... at 100.00%
 6	12aa, >a0... at 100.00%
+7	16aa, >a0... at 100.00%
+>Cluster 145
+0	37aa, >a0... *
+>Cluster 146
+0	37aa, >a0... *
+>Cluster 147
+0	37aa, >a0... *
+>Cluster 148
+0	37aa, >a0... *
 >Cluster 149
 0	37aa, >a0... *
 >Cluster 150
@@ -405,26 +404,27 @@
 >Cluster 151
 0	37aa, >a0... *
 >Cluster 152
-0	37aa, >a0... *
+0	17aa, >a0... at 100.00%
+1	17aa, >a0... at 100.00%
+2	37aa, >a0... *
+3	17aa, >a0... at 100.00%
 >Cluster 153
 0	37aa, >a0... *
 >Cluster 154
 0	37aa, >a0... *
 >Cluster 155
 0	37aa, >a0... *
+1	31aa, >a0... at 100.00%
+2	30aa, >a0... at 100.00%
+3	27aa, >a0... at 100.00%
 >Cluster 156
-0	17aa, >a0... at 100.00%
-1	37aa, >a0... *
-2	17aa, >a0... at 100.00%
+0	37aa, >a0... *
 >Cluster 157
 0	37aa, >a0... *
 >Cluster 158
 0	37aa, >a0... *
 >Cluster 159
 0	37aa, >a0... *
-1	31aa, >a0... at 100.00%
-2	30aa, >a0... at 100.00%
-3	27aa, >a0... at 100.00%
 >Cluster 160
 0	37aa, >a0... *
 >Cluster 161
@@ -460,7 +460,10 @@
 >Cluster 176
 0	37aa, >a0... *
 >Cluster 177
-0	37aa, >a0... *
+0	22aa, >a0... at 100.00%
+1	13aa, >a0... at 100.00%
+2	13aa, >a0... at 100.00%
+3	37aa, >a0... *
 >Cluster 178
 0	37aa, >a0... *
 >Cluster 179
@@ -468,19 +471,16 @@
 >Cluster 180
 0	37aa, >a0... *
 >Cluster 181
-0	22aa, >a0... at 100.00%
-1	13aa, >a0... at 100.00%
-2	13aa, >a0... at 100.00%
-3	37aa, >a0... *
+0	36aa, >a0... *
 >Cluster 182
-0	37aa, >a0... *
->Cluster 183
-0	37aa, >a0... *
->Cluster 184
-0	37aa, >a0... *
->Cluster 185
 0	36aa, >a0... *
 1	28aa, >a0... at 100.00%
+>Cluster 183
+0	36aa, >a0... *
+>Cluster 184
+0	36aa, >a0... *
+>Cluster 185
+0	36aa, >a0... *
 >Cluster 186
 0	36aa, >a0... *
 >Cluster 187
@@ -494,11 +494,11 @@
 >Cluster 191
 0	36aa, >a0... *
 >Cluster 192
-0	36aa, >a0... *
+0	35aa, >a0... *
 >Cluster 193
-0	36aa, >a0... *
+0	35aa, >a0... *
 >Cluster 194
-0	36aa, >a0... *
+0	35aa, >a0... *
 >Cluster 195
 0	35aa, >a0... *
 >Cluster 196
@@ -514,30 +514,21 @@
 >Cluster 201
 0	35aa, >a0... *
 >Cluster 202
-0	35aa, >a0... *
+0	15aa, >a0... at 100.00%
+1	35aa, >a0... *
+2	35aa, >a0... at 100.00%
 >Cluster 203
 0	35aa, >a0... *
 >Cluster 204
 0	35aa, >a0... *
+1	23aa, >a0... at 100.00%
 >Cluster 205
-0	15aa, >a0... at 100.00%
-1	35aa, >a0... *
+0	35aa, >a0... *
 >Cluster 206
 0	35aa, >a0... *
 >Cluster 207
 0	35aa, >a0... *
-1	23aa, >a0... at 100.00%
 >Cluster 208
-0	35aa, >a0... *
->Cluster 209
-0	35aa, >a0... *
->Cluster 210
-0	18aa, >a0... at 100.00%
-1	17aa, >a0... at 100.00%
-2	35aa, >a0... *
->Cluster 211
-0	35aa, >a0... *
->Cluster 212
 0	11aa, >a0... at 100.00%
 1	16aa, >a0... at 100.00%
 2	15aa, >a0... at 100.00%
@@ -546,10 +537,18 @@
 5	31aa, >a0... at 100.00%
 6	35aa, >a0... *
 7	11aa, >a0... at 100.00%
+>Cluster 209
+0	35aa, >a0... *
+>Cluster 210
+0	35aa, >a0... *
+>Cluster 211
+0	34aa, >a0... *
+>Cluster 212
+0	34aa, >a0... *
 >Cluster 213
-0	35aa, >a0... *
+0	34aa, >a0... *
 >Cluster 214
-0	35aa, >a0... *
+0	34aa, >a0... *
 >Cluster 215
 0	34aa, >a0... *
 >Cluster 216
@@ -563,47 +562,46 @@
 >Cluster 220
 0	34aa, >a0... *
 >Cluster 221
-0	34aa, >a0... *
->Cluster 222
-0	34aa, >a0... *
->Cluster 223
-0	34aa, >a0... *
->Cluster 224
-0	34aa, >a0... *
->Cluster 225
 0	16aa, >a0... at 100.00%
 1	18aa, >a0... at 100.00%
 2	34aa, >a0... *
->Cluster 226
+>Cluster 222
 0	18aa, >a0... at 100.00%
 1	34aa, >a0... *
+>Cluster 223
+0	34aa, >a0... *
+>Cluster 224
+0	20aa, >a0... at 100.00%
+1	14aa, >a0... at 100.00%
+2	34aa, >a0... *
+>Cluster 225
+0	34aa, >a0... *
+>Cluster 226
+0	34aa, >a0... *
+1	32aa, >a0... at 100.00%
+2	16aa, >a0... at 100.00%
 >Cluster 227
 0	34aa, >a0... *
 >Cluster 228
-0	20aa, >a0... at 100.00%
-1	14aa, >a0... at 100.00%
-2	33aa, >a0... at 100.00%
-3	34aa, >a0... *
-4	34aa, >a0... at 100.00%
+0	34aa, >a0... *
 >Cluster 229
 0	34aa, >a0... *
 >Cluster 230
 0	34aa, >a0... *
-1	32aa, >a0... at 100.00%
-2	16aa, >a0... at 100.00%
 >Cluster 231
 0	34aa, >a0... *
 >Cluster 232
 0	34aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 233
 0	34aa, >a0... *
 >Cluster 234
 0	34aa, >a0... *
 >Cluster 235
 0	34aa, >a0... *
+1	34aa, >a0... at 100.00%
 >Cluster 236
 0	34aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 237
 0	34aa, >a0... *
 >Cluster 238
@@ -621,26 +619,30 @@
 >Cluster 244
 0	34aa, >a0... *
 >Cluster 245
-0	34aa, >a0... *
+0	33aa, >a0... *
 >Cluster 246
-0	34aa, >a0... *
+0	33aa, >a0... *
 >Cluster 247
-0	34aa, >a0... *
+0	33aa, >a0... *
+1	27aa, >a0... at 100.00%
 >Cluster 248
-0	34aa, >a0... *
+0	33aa, >a0... *
+1	13aa, >a0... at 100.00%
+2	33aa, >a0... at 100.00%
 >Cluster 249
 0	33aa, >a0... *
 >Cluster 250
 0	33aa, >a0... *
 >Cluster 251
 0	33aa, >a0... *
-1	27aa, >a0... at 100.00%
 >Cluster 252
 0	33aa, >a0... *
 >Cluster 253
 0	33aa, >a0... *
 >Cluster 254
-0	33aa, >a0... *
+0	32aa, >a0... at 100.00%
+1	33aa, >a0... *
+2	15aa, >a0... at 100.00%
 >Cluster 255
 0	33aa, >a0... *
 >Cluster 256
@@ -648,9 +650,7 @@
 >Cluster 257
 0	33aa, >a0... *
 >Cluster 258
-0	32aa, >a0... at 100.00%
-1	33aa, >a0... *
-2	15aa, >a0... at 100.00%
+0	33aa, >a0... *
 >Cluster 259
 0	33aa, >a0... *
 >Cluster 260
@@ -659,20 +659,18 @@
 0	33aa, >a0... *
 >Cluster 262
 0	33aa, >a0... *
+1	17aa, >a0... at 100.00%
+2	16aa, >a0... at 100.00%
 >Cluster 263
-0	13aa, >a0... at 100.00%
-1	33aa, >a0... *
+0	33aa, >a0... *
 >Cluster 264
 0	33aa, >a0... *
-1	14aa, >a0... at 100.00%
 >Cluster 265
 0	33aa, >a0... *
 >Cluster 266
 0	33aa, >a0... *
 >Cluster 267
 0	33aa, >a0... *
-1	17aa, >a0... at 100.00%
-2	16aa, >a0... at 100.00%
 >Cluster 268
 0	33aa, >a0... *
 >Cluster 269
@@ -680,20 +678,23 @@
 >Cluster 270
 0	33aa, >a0... *
 >Cluster 271
-0	33aa, >a0... *
->Cluster 272
-0	33aa, >a0... *
->Cluster 273
-0	33aa, >a0... *
->Cluster 274
-0	33aa, >a0... *
->Cluster 275
-0	33aa, >a0... *
->Cluster 276
-0	33aa, >a0... *
->Cluster 277
 0	23aa, >a0... at 100.00%
 1	33aa, >a0... *
+>Cluster 272
+0	32aa, >a0... *
+>Cluster 273
+0	32aa, >a0... *
+>Cluster 274
+0	32aa, >a0... *
+1	12aa, >a0... at 100.00%
+2	32aa, >a0... at 100.00%
+>Cluster 275
+0	32aa, >a0... *
+1	12aa, >a0... at 100.00%
+>Cluster 276
+0	32aa, >a0... *
+>Cluster 277
+0	32aa, >a0... *
 >Cluster 278
 0	32aa, >a0... *
 >Cluster 279
@@ -705,13 +706,18 @@
 >Cluster 282
 0	32aa, >a0... *
 >Cluster 283
-0	32aa, >a0... *
+0	24aa, >a0... at 100.00%
+1	15aa, >a0... at 100.00%
+2	32aa, >a0... *
 >Cluster 284
-0	32aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	32aa, >a0... *
 >Cluster 285
-0	32aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	32aa, >a0... *
 >Cluster 286
-0	32aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	32aa, >a0... *
 >Cluster 287
 0	12aa, >a0... at 100.00%
 1	16aa, >a0... at 100.00%
@@ -727,30 +733,29 @@
 1	28aa, >a0... at 100.00%
 2	32aa, >a0... *
 >Cluster 289
-0	20aa, >a0... at 100.00%
-1	24aa, >a0... at 100.00%
-2	28aa, >a0... at 100.00%
-3	32aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	20aa, >a0... at 100.00%
+2	24aa, >a0... at 100.00%
+3	28aa, >a0... at 100.00%
+4	32aa, >a0... *
 >Cluster 290
 0	32aa, >a0... *
 >Cluster 291
 0	32aa, >a0... *
 >Cluster 292
-0	12aa, >a0... at 100.00%
-1	32aa, >a0... *
-2	16aa, >a0... at 100.00%
+0	32aa, >a0... *
 >Cluster 293
 0	32aa, >a0... *
 >Cluster 294
 0	32aa, >a0... *
 >Cluster 295
 0	32aa, >a0... *
->Cluster 296
-0	32aa, >a0... *
 1	12aa, >a0... at 100.00%
->Cluster 297
+>Cluster 296
 0	31aa, >a0... at 100.00%
 1	32aa, >a0... *
+>Cluster 297
+0	32aa, >a0... *
 >Cluster 298
 0	32aa, >a0... *
 >Cluster 299
@@ -758,7 +763,7 @@
 >Cluster 300
 0	32aa, >a0... *
 >Cluster 301
-0	32aa, >a0... *
+0	31aa, >a0... *
 >Cluster 302
 0	31aa, >a0... *
 >Cluster 303
@@ -794,26 +799,27 @@
 >Cluster 318
 0	31aa, >a0... *
 >Cluster 319
-0	31aa, >a0... *
->Cluster 320
-0	31aa, >a0... *
->Cluster 321
 0	18aa, >a0... at 100.00%
 1	23aa, >a0... at 100.00%
 2	31aa, >a0... *
+>Cluster 320
+0	31aa, >a0... *
+>Cluster 321
+0	31aa, >a0... *
 >Cluster 322
 0	31aa, >a0... *
 >Cluster 323
 0	31aa, >a0... *
 >Cluster 324
 0	31aa, >a0... *
+1	12aa, >a0... at 100.00%
+2	14aa, >a0... at 100.00%
+3	14aa, >a0... at 100.00%
+4	28aa, >a0... at 100.00%
 >Cluster 325
 0	31aa, >a0... *
 >Cluster 326
 0	31aa, >a0... *
-1	12aa, >a0... at 100.00%
-2	14aa, >a0... at 100.00%
-3	28aa, >a0... at 100.00%
 >Cluster 327
 0	31aa, >a0... *
 >Cluster 328
@@ -837,31 +843,32 @@
 >Cluster 337
 0	31aa, >a0... *
 >Cluster 338
-0	31aa, >a0... *
->Cluster 339
-0	31aa, >a0... *
->Cluster 340
 0	18aa, >a0... at 100.00%
 1	12aa, >a0... at 100.00%
 2	30aa, >a0... at 100.00%
 3	31aa, >a0... *
->Cluster 341
+>Cluster 339
 0	17aa, >a0... at 100.00%
 1	31aa, >a0... *
->Cluster 342
-0	31aa, >a0... *
->Cluster 343
+>Cluster 340
+0	26aa, >a0... at 100.00%
+1	31aa, >a0... *
+>Cluster 341
 0	30aa, >a0... *
 1	29aa, >a0... at 100.00%
+>Cluster 342
+0	30aa, >a0... *
+>Cluster 343
+0	30aa, >a0... *
 >Cluster 344
 0	30aa, >a0... *
 >Cluster 345
 0	30aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 346
 0	30aa, >a0... *
 >Cluster 347
 0	30aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 348
 0	30aa, >a0... *
 >Cluster 349
@@ -909,13 +916,12 @@
 >Cluster 370
 0	30aa, >a0... *
 >Cluster 371
-0	30aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	30aa, >a0... *
 >Cluster 372
 0	30aa, >a0... *
 >Cluster 373
-0	13aa, >a0... at 100.00%
-1	12aa, >a0... at 100.00%
-2	30aa, >a0... *
+0	30aa, >a0... *
 >Cluster 374
 0	30aa, >a0... *
 >Cluster 375
@@ -926,9 +932,9 @@
 0	30aa, >a0... *
 >Cluster 378
 0	30aa, >a0... *
+1	24aa, >a0... at 100.00%
 >Cluster 379
 0	30aa, >a0... *
-1	24aa, >a0... at 100.00%
 >Cluster 380
 0	30aa, >a0... *
 >Cluster 381
@@ -942,7 +948,11 @@
 >Cluster 385
 0	30aa, >a0... *
 >Cluster 386
-0	30aa, >a0... *
+0	18aa, >a0... at 100.00%
+1	21aa, >a0... at 100.00%
+2	24aa, >a0... at 100.00%
+3	27aa, >a0... at 100.00%
+4	30aa, >a0... *
 >Cluster 387
 0	18aa, >a0... at 100.00%
 1	21aa, >a0... at 100.00%
@@ -950,11 +960,7 @@
 3	27aa, >a0... at 100.00%
 4	30aa, >a0... *
 >Cluster 388
-0	18aa, >a0... at 100.00%
-1	21aa, >a0... at 100.00%
-2	24aa, >a0... at 100.00%
-3	27aa, >a0... at 100.00%
-4	30aa, >a0... *
+0	30aa, >a0... *
 >Cluster 389
 0	30aa, >a0... *
 >Cluster 390
@@ -966,28 +972,29 @@
 >Cluster 393
 0	30aa, >a0... *
 >Cluster 394
-0	30aa, >a0... *
->Cluster 395
 0	29aa, >a0... at 100.00%
 1	30aa, >a0... *
->Cluster 396
+2	29aa, >a0... at 100.00%
+>Cluster 395
 0	27aa, >a0... at 100.00%
 1	30aa, >a0... *
+>Cluster 396
+0	30aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 397
 0	30aa, >a0... *
 1	20aa, >a0... at 100.00%
 >Cluster 398
 0	30aa, >a0... *
-1	20aa, >a0... at 100.00%
 >Cluster 399
 0	30aa, >a0... *
 >Cluster 400
 0	30aa, >a0... *
 >Cluster 401
-0	30aa, >a0... *
->Cluster 402
 0	16aa, >a0... at 100.00%
 1	30aa, >a0... *
+>Cluster 402
+0	30aa, >a0... *
 >Cluster 403
 0	30aa, >a0... *
 >Cluster 404
@@ -1003,10 +1010,10 @@
 >Cluster 409
 0	30aa, >a0... *
 >Cluster 410
-0	30aa, >a0... *
->Cluster 411
 0	29aa, >a0... at 100.00%
 1	30aa, >a0... *
+>Cluster 411
+0	30aa, >a0... *
 >Cluster 412
 0	30aa, >a0... *
 >Cluster 413
@@ -1026,7 +1033,10 @@
 >Cluster 420
 0	30aa, >a0... *
 >Cluster 421
-0	30aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	30aa, >a0... *
+2	12aa, >a0... at 100.00%
+3	11aa, >a0... at 100.00%
 >Cluster 422
 0	30aa, >a0... *
 >Cluster 423
@@ -1036,12 +1046,12 @@
 >Cluster 425
 0	30aa, >a0... *
 >Cluster 426
-0	30aa, >a0... *
+0	14aa, >a0... at 100.00%
+1	30aa, >a0... *
 >Cluster 427
 0	30aa, >a0... *
 >Cluster 428
-0	14aa, >a0... at 100.00%
-1	30aa, >a0... *
+0	30aa, >a0... *
 >Cluster 429
 0	30aa, >a0... *
 >Cluster 430
@@ -1051,9 +1061,9 @@
 >Cluster 432
 0	30aa, >a0... *
 >Cluster 433
-0	30aa, >a0... *
+0	29aa, >a0... *
 >Cluster 434
-0	30aa, >a0... *
+0	29aa, >a0... *
 >Cluster 435
 0	29aa, >a0... *
 >Cluster 436
@@ -1084,13 +1094,12 @@
 0	29aa, >a0... *
 >Cluster 449
 0	29aa, >a0... *
-1	28aa, >a0... at 100.00%
+1	29aa, >a0... at 100.00%
 >Cluster 450
 0	29aa, >a0... *
+1	29aa, >a0... at 100.00%
 >Cluster 451
 0	29aa, >a0... *
-1	28aa, >a0... at 100.00%
-2	28aa, >a0... at 100.00%
 >Cluster 452
 0	29aa, >a0... *
 >Cluster 453
@@ -1135,22 +1144,23 @@
 1	13aa, >a0... at 100.00%
 >Cluster 472
 0	29aa, >a0... *
-1	28aa, >a0... at 100.00%
-2	28aa, >a0... at 100.00%
 >Cluster 473
 0	29aa, >a0... *
 >Cluster 474
 0	29aa, >a0... *
 >Cluster 475
 0	29aa, >a0... *
+1	29aa, >a0... at 100.00%
 >Cluster 476
 0	29aa, >a0... *
+1	29aa, >a0... at 100.00%
 >Cluster 477
 0	29aa, >a0... *
 >Cluster 478
 0	29aa, >a0... *
 >Cluster 479
 0	29aa, >a0... *
+1	29aa, >a0... at 100.00%
 >Cluster 480
 0	29aa, >a0... *
 >Cluster 481
@@ -1223,7 +1233,6 @@
 >Cluster 513
 0	13aa, >a0... at 100.00%
 1	28aa, >a0... *
-2	28aa, >a0... at 100.00%
 >Cluster 514
 0	28aa, >a0... *
 >Cluster 515
@@ -1234,8 +1243,7 @@
 >Cluster 517
 0	28aa, >a0... *
 >Cluster 518
-0	12aa, >a0... at 100.00%
-1	28aa, >a0... *
+0	28aa, >a0... *
 >Cluster 519
 0	28aa, >a0... *
 >Cluster 520
@@ -1243,56 +1251,52 @@
 >Cluster 521
 0	28aa, >a0... *
 >Cluster 522
-0	28aa, >a0... *
->Cluster 523
 0	16aa, >a0... at 100.00%
 1	28aa, >a0... *
 2	13aa, >a0... at 100.00%
->Cluster 524
+>Cluster 523
 0	28aa, >a0... *
 1	24aa, >a0... at 100.00%
 2	22aa, >a0... at 100.00%
+>Cluster 524
+0	28aa, >a0... *
 >Cluster 525
-0	28aa, >a0... *
+0	24aa, >a0... at 100.00%
+1	28aa, >a0... *
 >Cluster 526
-0	24aa, >a0... at 100.00%
-1	28aa, >a0... *
->Cluster 527
 0	28aa, >a0... *
->Cluster 528
+>Cluster 527
 0	24aa, >a0... at 100.00%
 1	28aa, >a0... *
+>Cluster 528
+0	28aa, >a0... *
 >Cluster 529
 0	28aa, >a0... *
+1	22aa, >a0... at 100.00%
 >Cluster 530
-0	22aa, >a0... at 100.00%
-1	28aa, >a0... *
-2	28aa, >a0... at 100.00%
-3	22aa, >a0... at 100.00%
+0	28aa, >a0... *
 >Cluster 531
 0	28aa, >a0... *
 >Cluster 532
-0	28aa, >a0... *
->Cluster 533
-0	28aa, >a0... *
->Cluster 534
 0	28aa, >a0... *
 1	26aa, >a0... at 100.00%
 2	24aa, >a0... at 100.00%
 3	22aa, >a0... at 100.00%
 4	26aa, >a0... at 100.00%
+>Cluster 533
+0	28aa, >a0... *
+>Cluster 534
+0	28aa, >a0... *
 >Cluster 535
-0	28aa, >a0... *
->Cluster 536
-0	28aa, >a0... *
->Cluster 537
-0	20aa, >a0... at 100.00%
-1	11aa, >a0... at 100.00%
-2	28aa, >a0... *
->Cluster 538
 0	12aa, >a0... at 100.00%
 1	16aa, >a0... at 100.00%
 2	28aa, >a0... *
+>Cluster 536
+0	28aa, >a0... *
+>Cluster 537
+0	28aa, >a0... *
+>Cluster 538
+0	28aa, >a0... *
 >Cluster 539
 0	28aa, >a0... *
 >Cluster 540
@@ -1319,13 +1323,13 @@
 0	28aa, >a0... *
 >Cluster 551
 0	28aa, >a0... *
+1	15aa, >a0... at 100.00%
 >Cluster 552
 0	28aa, >a0... *
 >Cluster 553
 0	28aa, >a0... *
 >Cluster 554
 0	28aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 555
 0	28aa, >a0... *
 >Cluster 556
@@ -1350,13 +1354,17 @@
 0	28aa, >a0... *
 >Cluster 566
 0	28aa, >a0... *
->Cluster 567
-0	28aa, >a0... *
 1	17aa, >a0... at 100.00%
 2	16aa, >a0... at 100.00%
-3	27aa, >a0... at 100.00%
-4	27aa, >a0... at 100.00%
-5	26aa, >a0... at 100.00%
+3	28aa, >a0... at 100.00%
+4	28aa, >a0... at 100.00%
+5	28aa, >a0... at 100.00%
+6	28aa, >a0... at 100.00%
+7	28aa, >a0... at 100.00%
+8	28aa, >a0... at 100.00%
+9	28aa, >a0... at 100.00%
+>Cluster 567
+0	28aa, >a0... *
 >Cluster 568
 0	28aa, >a0... *
 >Cluster 569
@@ -1496,14 +1504,14 @@
 >Cluster 636
 0	28aa, >a0... *
 >Cluster 637
-0	28aa, >a0... *
+0	27aa, >a0... *
 >Cluster 638
 0	27aa, >a0... *
 >Cluster 639
 0	27aa, >a0... *
+1	26aa, >a0... at 100.00%
 >Cluster 640
 0	27aa, >a0... *
-1	26aa, >a0... at 100.00%
 >Cluster 641
 0	27aa, >a0... *
 >Cluster 642
@@ -1518,17 +1526,16 @@
 0	27aa, >a0... *
 >Cluster 647
 0	27aa, >a0... *
+1	17aa, >a0... at 100.00%
 >Cluster 648
 0	27aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 649
 0	27aa, >a0... *
-1	12aa, >a0... at 100.00%
+1	20aa, >a0... at 100.00%
 >Cluster 650
 0	27aa, >a0... *
 >Cluster 651
 0	27aa, >a0... *
-1	20aa, >a0... at 100.00%
 >Cluster 652
 0	27aa, >a0... *
 >Cluster 653
@@ -1544,21 +1551,19 @@
 >Cluster 658
 0	27aa, >a0... *
 >Cluster 659
-0	12aa, >a0... at 100.00%
-1	27aa, >a0... *
+0	27aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 660
-0	12aa, >a0... at 100.00%
-1	27aa, >a0... *
+0	27aa, >a0... *
 >Cluster 661
 0	27aa, >a0... *
 >Cluster 662
-0	12aa, >a0... at 100.00%
-1	27aa, >a0... *
+0	27aa, >a0... *
 >Cluster 663
 0	27aa, >a0... *
 >Cluster 664
-0	27aa, >a0... *
-1	13aa, >a0... at 100.00%
+0	13aa, >a0... at 100.00%
+1	27aa, >a0... *
 >Cluster 665
 0	27aa, >a0... *
 >Cluster 666
@@ -1570,8 +1575,7 @@
 >Cluster 669
 0	27aa, >a0... *
 >Cluster 670
-0	13aa, >a0... at 100.00%
-1	27aa, >a0... *
+0	27aa, >a0... *
 >Cluster 671
 0	27aa, >a0... *
 >Cluster 672
@@ -2279,13 +2283,17 @@
 >Cluster 1023
 0	27aa, >a0... *
 >Cluster 1024
-0	27aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	27aa, >a0... *
+2	16aa, >a0... at 100.00%
 >Cluster 1025
 0	27aa, >a0... *
 >Cluster 1026
 0	27aa, >a0... *
 >Cluster 1027
-0	27aa, >a0... *
+0	18aa, >a0... at 100.00%
+1	26aa, >a0... at 100.00%
+2	27aa, >a0... *
 >Cluster 1028
 0	27aa, >a0... *
 >Cluster 1029
@@ -2305,53 +2313,78 @@
 >Cluster 1036
 0	27aa, >a0... *
 >Cluster 1037
-0	27aa, >a0... *
-1	27aa, >a0... at 100.00%
+0	12aa, >a0... at 100.00%
+1	27aa, >a0... *
 >Cluster 1038
 0	27aa, >a0... *
 >Cluster 1039
-0	27aa, >a0... *
->Cluster 1040
-0	27aa, >a0... *
->Cluster 1041
-0	18aa, >a0... at 100.00%
-1	26aa, >a0... at 100.00%
-2	27aa, >a0... *
->Cluster 1042
-0	27aa, >a0... *
->Cluster 1043
-0	27aa, >a0... *
->Cluster 1044
-0	27aa, >a0... *
->Cluster 1045
-0	27aa, >a0... *
->Cluster 1046
-0	27aa, >a0... *
->Cluster 1047
-0	27aa, >a0... *
->Cluster 1048
-0	27aa, >a0... *
->Cluster 1049
-0	27aa, >a0... *
->Cluster 1050
-0	12aa, >a0... at 100.00%
-1	27aa, >a0... *
->Cluster 1051
-0	27aa, >a0... *
->Cluster 1052
 0	26aa, >a0... at 100.00%
 1	27aa, >a0... *
->Cluster 1053
+>Cluster 1040
 0	21aa, >a0... at 100.00%
 1	27aa, >a0... *
+>Cluster 1041
+0	26aa, >a0... *
+>Cluster 1042
+0	26aa, >a0... *
+>Cluster 1043
+0	26aa, >a0... *
+>Cluster 1044
+0	26aa, >a0... *
+>Cluster 1045
+0	26aa, >a0... *
+>Cluster 1046
+0	26aa, >a0... *
+>Cluster 1047
+0	26aa, >a0... *
+>Cluster 1048
+0	26aa, >a0... *
+>Cluster 1049
+0	26aa, >a0... *
+1	26aa, >a0... at 100.00%
+2	26aa, >a0... at 100.00%
+3	26aa, >a0... at 100.00%
+4	26aa, >a0... at 100.00%
+5	26aa, >a0... at 100.00%
+6	26aa, >a0... at 100.00%
+7	26aa, >a0... at 100.00%
+8	26aa, >a0... at 100.00%
+>Cluster 1050
+0	26aa, >a0... *
+>Cluster 1051
+0	26aa, >a0... *
+>Cluster 1052
+0	26aa, >a0... *
+1	26aa, >a0... at 100.00%
+2	26aa, >a0... at 100.00%
+3	26aa, >a0... at 100.00%
+4	26aa, >a0... at 100.00%
+5	26aa, >a0... at 100.00%
+6	26aa, >a0... at 100.00%
+7	26aa, >a0... at 100.00%
+8	26aa, >a0... at 100.00%
+9	26aa, >a0... at 100.00%
+10	26aa, >a0... at 100.00%
+11	26aa, >a0... at 100.00%
+12	26aa, >a0... at 100.00%
+13	26aa, >a0... at 100.00%
+14	26aa, >a0... at 100.00%
+15	26aa, >a0... at 100.00%
+16	26aa, >a0... at 100.00%
+17	26aa, >a0... at 100.00%
+>Cluster 1053
+0	26aa, >a0... *
 >Cluster 1054
 0	26aa, >a0... *
 >Cluster 1055
 0	26aa, >a0... *
+1	20aa, >a0... at 100.00%
+2	26aa, >a0... at 100.00%
 >Cluster 1056
 0	26aa, >a0... *
 >Cluster 1057
-0	26aa, >a0... *
+0	23aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1058
 0	26aa, >a0... *
 >Cluster 1059
@@ -2359,37 +2392,34 @@
 >Cluster 1060
 0	26aa, >a0... *
 >Cluster 1061
-0	26aa, >a0... *
+0	15aa, >a0... at 100.00%
+1	15aa, >a0... at 100.00%
+2	26aa, >a0... *
+3	20aa, >a0... at 100.00%
 >Cluster 1062
 0	26aa, >a0... *
 >Cluster 1063
 0	26aa, >a0... *
-1	25aa, >a0... at 100.00%
-2	25aa, >a0... at 100.00%
 >Cluster 1064
 0	26aa, >a0... *
-1	25aa, >a0... at 100.00%
 >Cluster 1065
 0	26aa, >a0... *
-1	25aa, >a0... at 100.00%
 >Cluster 1066
-0	26aa, >a0... *
-1	25aa, >a0... at 100.00%
-2	25aa, >a0... at 100.00%
-3	25aa, >a0... at 100.00%
-4	25aa, >a0... at 100.00%
+0	23aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1067
 0	26aa, >a0... *
 >Cluster 1068
 0	26aa, >a0... *
 >Cluster 1069
 0	26aa, >a0... *
-1	20aa, >a0... at 100.00%
 >Cluster 1070
 0	26aa, >a0... *
 >Cluster 1071
-0	23aa, >a0... at 100.00%
-1	26aa, >a0... *
+0	26aa, >a0... *
+1	25aa, >a0... at 100.00%
+2	19aa, >a0... at 100.00%
+3	14aa, >a0... at 100.00%
 >Cluster 1072
 0	26aa, >a0... *
 >Cluster 1073
@@ -2397,9 +2427,7 @@
 >Cluster 1074
 0	26aa, >a0... *
 >Cluster 1075
-0	15aa, >a0... at 100.00%
-1	26aa, >a0... *
-2	20aa, >a0... at 100.00%
+0	26aa, >a0... *
 >Cluster 1076
 0	26aa, >a0... *
 >Cluster 1077
@@ -2407,33 +2435,38 @@
 >Cluster 1078
 0	26aa, >a0... *
 >Cluster 1079
-0	26aa, >a0... *
+0	23aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1080
 0	26aa, >a0... *
 >Cluster 1081
-0	23aa, >a0... at 100.00%
-1	26aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	13aa, >a0... at 100.00%
+2	26aa, >a0... *
+3	13aa, >a0... at 100.00%
 >Cluster 1082
 0	26aa, >a0... *
 >Cluster 1083
 0	26aa, >a0... *
 >Cluster 1084
-0	26aa, >a0... *
+0	24aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1085
-0	26aa, >a0... *
+0	18aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1086
-0	26aa, >a0... *
-1	25aa, >a0... at 100.00%
-2	19aa, >a0... at 100.00%
-3	14aa, >a0... at 100.00%
+0	24aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1087
-0	26aa, >a0... *
+0	18aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1088
 0	26aa, >a0... *
 >Cluster 1089
 0	26aa, >a0... *
 >Cluster 1090
-0	26aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	26aa, >a0... *
 >Cluster 1091
 0	26aa, >a0... *
 >Cluster 1092
@@ -2441,74 +2474,67 @@
 >Cluster 1093
 0	26aa, >a0... *
 >Cluster 1094
-0	23aa, >a0... at 100.00%
-1	26aa, >a0... *
+0	26aa, >a0... *
 >Cluster 1095
-0	26aa, >a0... *
->Cluster 1096
-0	12aa, >a0... at 100.00%
-1	13aa, >a0... at 100.00%
-2	26aa, >a0... *
-3	13aa, >a0... at 100.00%
->Cluster 1097
-0	26aa, >a0... *
->Cluster 1098
-0	26aa, >a0... *
->Cluster 1099
-0	24aa, >a0... at 100.00%
-1	26aa, >a0... *
->Cluster 1100
-0	18aa, >a0... at 100.00%
-1	26aa, >a0... *
->Cluster 1101
-0	24aa, >a0... at 100.00%
-1	26aa, >a0... *
->Cluster 1102
-0	18aa, >a0... at 100.00%
-1	26aa, >a0... *
->Cluster 1103
-0	26aa, >a0... *
->Cluster 1104
-0	26aa, >a0... *
->Cluster 1105
-0	13aa, >a0... at 100.00%
-1	26aa, >a0... *
->Cluster 1106
-0	26aa, >a0... *
->Cluster 1107
-0	26aa, >a0... *
->Cluster 1108
-0	26aa, >a0... *
->Cluster 1109
-0	26aa, >a0... *
->Cluster 1110
-0	26aa, >a0... *
->Cluster 1111
 0	25aa, >a0... *
 1	20aa, >a0... at 100.00%
+>Cluster 1096
+0	25aa, >a0... *
+>Cluster 1097
+0	25aa, >a0... *
+>Cluster 1098
+0	25aa, >a0... *
+1	20aa, >a0... at 100.00%
+>Cluster 1099
+0	25aa, >a0... *
+>Cluster 1100
+0	25aa, >a0... *
+>Cluster 1101
+0	25aa, >a0... *
+>Cluster 1102
+0	25aa, >a0... *
+1	22aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
+3	15aa, >a0... at 100.00%
+>Cluster 1103
+0	25aa, >a0... *
+>Cluster 1104
+0	25aa, >a0... *
+1	11aa, >a0... at 100.00%
+>Cluster 1105
+0	25aa, >a0... *
+>Cluster 1106
+0	25aa, >a0... *
+>Cluster 1107
+0	25aa, >a0... *
+>Cluster 1108
+0	25aa, >a0... *
+>Cluster 1109
+0	25aa, >a0... *
+>Cluster 1110
+0	25aa, >a0... *
+>Cluster 1111
+0	25aa, >a0... *
 >Cluster 1112
 0	25aa, >a0... *
 >Cluster 1113
 0	25aa, >a0... *
 >Cluster 1114
 0	25aa, >a0... *
-1	20aa, >a0... at 100.00%
+1	22aa, >a0... at 100.00%
 >Cluster 1115
 0	25aa, >a0... *
+1	25aa, >a0... at 100.00%
 >Cluster 1116
 0	25aa, >a0... *
 >Cluster 1117
 0	25aa, >a0... *
 >Cluster 1118
 0	25aa, >a0... *
-1	22aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
-3	15aa, >a0... at 100.00%
 >Cluster 1119
 0	25aa, >a0... *
 >Cluster 1120
 0	25aa, >a0... *
-1	11aa, >a0... at 100.00%
 >Cluster 1121
 0	25aa, >a0... *
 >Cluster 1122
@@ -2527,9 +2553,10 @@
 0	25aa, >a0... *
 >Cluster 1129
 0	25aa, >a0... *
+1	25aa, >a0... at 100.00%
 >Cluster 1130
 0	25aa, >a0... *
-1	22aa, >a0... at 100.00%
+1	25aa, >a0... at 100.00%
 >Cluster 1131
 0	25aa, >a0... *
 >Cluster 1132
@@ -2540,86 +2567,87 @@
 0	25aa, >a0... *
 >Cluster 1135
 0	25aa, >a0... *
+1	24aa, >a0... at 100.00%
 >Cluster 1136
 0	25aa, >a0... *
 >Cluster 1137
 0	25aa, >a0... *
 >Cluster 1138
 0	25aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 1139
 0	25aa, >a0... *
 >Cluster 1140
 0	25aa, >a0... *
+1	23aa, >a0... at 100.00%
 >Cluster 1141
 0	25aa, >a0... *
 >Cluster 1142
 0	25aa, >a0... *
 >Cluster 1143
-0	25aa, >a0... *
->Cluster 1144
-0	25aa, >a0... *
->Cluster 1145
-0	25aa, >a0... *
->Cluster 1146
-0	25aa, >a0... *
->Cluster 1147
-0	25aa, >a0... *
->Cluster 1148
-0	25aa, >a0... *
->Cluster 1149
-0	25aa, >a0... *
->Cluster 1150
-0	25aa, >a0... *
->Cluster 1151
-0	25aa, >a0... *
->Cluster 1152
-0	25aa, >a0... *
->Cluster 1153
-0	25aa, >a0... *
->Cluster 1154
-0	25aa, >a0... *
-1	24aa, >a0... at 100.00%
->Cluster 1155
-0	25aa, >a0... *
->Cluster 1156
-0	25aa, >a0... *
->Cluster 1157
-0	25aa, >a0... *
-1	20aa, >a0... at 100.00%
->Cluster 1158
-0	25aa, >a0... *
->Cluster 1159
-0	25aa, >a0... *
-1	23aa, >a0... at 100.00%
->Cluster 1160
-0	25aa, >a0... *
->Cluster 1161
-0	25aa, >a0... *
->Cluster 1162
 0	12aa, >a0... at 100.00%
 1	13aa, >a0... at 100.00%
 2	25aa, >a0... *
->Cluster 1163
+>Cluster 1144
 0	25aa, >a0... *
->Cluster 1164
+>Cluster 1145
 0	25aa, >a0... *
 1	22aa, >a0... at 100.00%
 2	18aa, >a0... at 100.00%
 3	18aa, >a0... at 100.00%
 4	17aa, >a0... at 100.00%
->Cluster 1165
+>Cluster 1146
 0	24aa, >a0... *
 1	21aa, >a0... at 100.00%
->Cluster 1166
+>Cluster 1147
 0	24aa, >a0... *
 1	21aa, >a0... at 100.00%
->Cluster 1167
+>Cluster 1148
 0	24aa, >a0... *
 1	13aa, >a0... at 100.00%
+>Cluster 1149
+0	24aa, >a0... *
+>Cluster 1150
+0	24aa, >a0... *
+>Cluster 1151
+0	24aa, >a0... *
+>Cluster 1152
+0	24aa, >a0... *
+>Cluster 1153
+0	24aa, >a0... *
+>Cluster 1154
+0	24aa, >a0... *
+>Cluster 1155
+0	24aa, >a0... *
+>Cluster 1156
+0	24aa, >a0... *
+>Cluster 1157
+0	24aa, >a0... *
+>Cluster 1158
+0	24aa, >a0... *
+>Cluster 1159
+0	24aa, >a0... *
+>Cluster 1160
+0	24aa, >a0... *
+>Cluster 1161
+0	24aa, >a0... *
+>Cluster 1162
+0	24aa, >a0... *
+>Cluster 1163
+0	24aa, >a0... *
+>Cluster 1164
+0	24aa, >a0... *
+>Cluster 1165
+0	24aa, >a0... *
+>Cluster 1166
+0	24aa, >a0... *
+>Cluster 1167
+0	24aa, >a0... *
 >Cluster 1168
 0	24aa, >a0... *
 >Cluster 1169
 0	24aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1170
 0	24aa, >a0... *
 >Cluster 1171
@@ -2635,7 +2663,8 @@
 >Cluster 1176
 0	24aa, >a0... *
 >Cluster 1177
-0	24aa, >a0... *
+0	18aa, >a0... at 100.00%
+1	24aa, >a0... *
 >Cluster 1178
 0	24aa, >a0... *
 >Cluster 1179
@@ -2646,29 +2675,42 @@
 0	24aa, >a0... *
 >Cluster 1182
 0	24aa, >a0... *
-1	23aa, >a0... at 100.00%
 >Cluster 1183
 0	24aa, >a0... *
+1	24aa, >a0... at 100.00%
+2	24aa, >a0... at 100.00%
+3	24aa, >a0... at 100.00%
 >Cluster 1184
 0	24aa, >a0... *
-1	23aa, >a0... at 100.00%
+1	17aa, >a0... at 100.00%
 >Cluster 1185
-0	24aa, >a0... *
+0	17aa, >a0... at 100.00%
+1	24aa, >a0... *
 >Cluster 1186
 0	24aa, >a0... *
+1	17aa, >a0... at 100.00%
 >Cluster 1187
-0	24aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	23aa, >a0... at 100.00%
+2	24aa, >a0... *
+3	18aa, >a0... at 100.00%
 >Cluster 1188
-0	24aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	24aa, >a0... *
 >Cluster 1189
-0	24aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	14aa, >a0... at 100.00%
+2	16aa, >a0... at 100.00%
+3	18aa, >a0... at 100.00%
+4	20aa, >a0... at 100.00%
+5	22aa, >a0... at 100.00%
+6	24aa, >a0... *
 >Cluster 1190
 0	24aa, >a0... *
 >Cluster 1191
 0	24aa, >a0... *
 >Cluster 1192
 0	24aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 1193
 0	24aa, >a0... *
 >Cluster 1194
@@ -2684,8 +2726,7 @@
 >Cluster 1199
 0	24aa, >a0... *
 >Cluster 1200
-0	18aa, >a0... at 100.00%
-1	24aa, >a0... *
+0	24aa, >a0... *
 >Cluster 1201
 0	24aa, >a0... *
 >Cluster 1202
@@ -2699,31 +2740,18 @@
 >Cluster 1206
 0	24aa, >a0... *
 >Cluster 1207
-0	24aa, >a0... *
-1	17aa, >a0... at 100.00%
->Cluster 1208
-0	17aa, >a0... at 100.00%
+0	12aa, >a0... at 100.00%
 1	24aa, >a0... *
-2	15aa, >a0... at 100.00%
+>Cluster 1208
+0	24aa, >a0... *
 >Cluster 1209
 0	24aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 1210
-0	12aa, >a0... at 100.00%
-1	23aa, >a0... at 100.00%
-2	24aa, >a0... *
-3	18aa, >a0... at 100.00%
+0	24aa, >a0... *
 >Cluster 1211
-0	12aa, >a0... at 100.00%
-1	24aa, >a0... *
+0	24aa, >a0... *
 >Cluster 1212
-0	12aa, >a0... at 100.00%
-1	14aa, >a0... at 100.00%
-2	16aa, >a0... at 100.00%
-3	18aa, >a0... at 100.00%
-4	20aa, >a0... at 100.00%
-5	22aa, >a0... at 100.00%
-6	24aa, >a0... *
+0	24aa, >a0... *
 >Cluster 1213
 0	24aa, >a0... *
 >Cluster 1214
@@ -2739,7 +2767,7 @@
 >Cluster 1219
 0	24aa, >a0... *
 >Cluster 1220
-0	24aa, >a0... *
+0	24aa, >a1... *
 >Cluster 1221
 0	24aa, >a0... *
 >Cluster 1222
@@ -2758,82 +2786,90 @@
 0	24aa, >a0... *
 >Cluster 1229
 0	24aa, >a0... *
-1	23aa, >a0... at 100.00%
 >Cluster 1230
 0	24aa, >a0... *
 >Cluster 1231
 0	24aa, >a0... *
-1	23aa, >a0... at 100.00%
 >Cluster 1232
 0	24aa, >a0... *
 >Cluster 1233
 0	24aa, >a0... *
 >Cluster 1234
-0	12aa, >a0... at 100.00%
-1	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1235
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1236
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1237
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1238
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1239
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1240
-0	24aa, >a0... *
+0	23aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 1241
-0	24aa, >a0... *
+0	23aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1242
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1243
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1244
-0	24aa, >a0... *
+0	22aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1245
-0	24aa, >a0... *
+0	23aa, >a0... *
+1	22aa, >a0... at 100.00%
 >Cluster 1246
-0	24aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1247
-0	24aa, >a1... *
+0	14aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1248
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1249
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1250
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1251
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1252
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1253
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1254
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1255
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1256
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1257
-0	23aa, >a0... at 100.00%
-1	24aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	11aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
+3	23aa, >a0... *
+4	23aa, >a0... at 100.00%
 >Cluster 1258
-0	24aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1259
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1260
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1261
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1262
-0	24aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1263
 0	23aa, >a0... *
 >Cluster 1264
 0	23aa, >a0... *
 >Cluster 1265
-0	23aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1266
 0	23aa, >a0... *
 >Cluster 1267
@@ -2842,26 +2878,20 @@
 0	23aa, >a0... *
 >Cluster 1269
 0	23aa, >a0... *
-1	13aa, >a0... at 100.00%
 >Cluster 1270
 0	23aa, >a0... *
-1	19aa, >a0... at 100.00%
 >Cluster 1271
 0	23aa, >a0... *
 >Cluster 1272
 0	23aa, >a0... *
 >Cluster 1273
-0	22aa, >a0... at 100.00%
-1	23aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1274
 0	23aa, >a0... *
-1	22aa, >a0... at 100.00%
 >Cluster 1275
-0	13aa, >a0... at 100.00%
-1	23aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1276
-0	14aa, >a0... at 100.00%
-1	23aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1277
 0	23aa, >a0... *
 >Cluster 1278
@@ -2880,14 +2910,17 @@
 0	23aa, >a0... *
 >Cluster 1285
 0	23aa, >a0... *
+1	22aa, >a0... at 100.00%
 >Cluster 1286
-0	11aa, >a0... at 100.00%
-1	11aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
-3	23aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1287
-0	11aa, >a0... at 100.00%
-1	23aa, >a0... *
+0	23aa, >a0... *
+1	20aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
+3	12aa, >a0... at 100.00%
+4	18aa, >a0... at 100.00%
+5	15aa, >a0... at 100.00%
+6	12aa, >a0... at 100.00%
 >Cluster 1288
 0	23aa, >a0... *
 >Cluster 1289
@@ -2901,10 +2934,11 @@
 >Cluster 1293
 0	23aa, >a0... *
 >Cluster 1294
-0	11aa, >a0... at 100.00%
-1	23aa, >a0... *
+0	23aa, >a0... *
 >Cluster 1295
 0	23aa, >a0... *
+1	18aa, >a0... at 100.00%
+2	21aa, >a0... at 100.00%
 >Cluster 1296
 0	23aa, >a0... *
 >Cluster 1297
@@ -2918,7 +2952,12 @@
 >Cluster 1301
 0	23aa, >a0... *
 >Cluster 1302
-0	23aa, >a0... *
+0	16aa, >a0... at 100.00%
+1	14aa, >a0... at 100.00%
+2	14aa, >a0... at 100.00%
+3	14aa, >a0... at 100.00%
+4	12aa, >a0... at 100.00%
+5	23aa, >a0... *
 >Cluster 1303
 0	23aa, >a0... *
 >Cluster 1304
@@ -2943,128 +2982,126 @@
 0	23aa, >a0... *
 >Cluster 1314
 0	23aa, >a0... *
-1	22aa, >a0... at 100.00%
 >Cluster 1315
 0	23aa, >a0... *
 >Cluster 1316
 0	23aa, >a0... *
-1	20aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
-3	12aa, >a0... at 100.00%
-4	18aa, >a0... at 100.00%
-5	15aa, >a0... at 100.00%
-6	12aa, >a0... at 100.00%
 >Cluster 1317
 0	23aa, >a0... *
 >Cluster 1318
-0	23aa, >a0... *
+0	18aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1319
 0	23aa, >a0... *
 >Cluster 1320
 0	23aa, >a0... *
 >Cluster 1321
-0	23aa, >a0... *
+0	22aa, >a0... at 100.00%
+1	23aa, >a0... *
 >Cluster 1322
 0	23aa, >a0... *
 >Cluster 1323
 0	23aa, >a0... *
 >Cluster 1324
 0	23aa, >a0... *
-1	18aa, >a0... at 100.00%
-2	21aa, >a0... at 100.00%
 >Cluster 1325
 0	23aa, >a0... *
 >Cluster 1326
 0	23aa, >a0... *
 >Cluster 1327
-0	23aa, >a0... *
->Cluster 1328
-0	23aa, >a0... *
->Cluster 1329
-0	23aa, >a0... *
->Cluster 1330
-0	23aa, >a0... *
->Cluster 1331
-0	16aa, >a0... at 100.00%
-1	14aa, >a0... at 100.00%
-2	14aa, >a0... at 100.00%
-3	14aa, >a0... at 100.00%
-4	12aa, >a0... at 100.00%
-5	23aa, >a0... *
->Cluster 1332
-0	23aa, >a0... *
->Cluster 1333
-0	23aa, >a0... *
->Cluster 1334
-0	23aa, >a0... *
->Cluster 1335
-0	23aa, >a0... *
->Cluster 1336
-0	23aa, >a0... *
->Cluster 1337
-0	23aa, >a0... *
->Cluster 1338
-0	23aa, >a0... *
->Cluster 1339
-0	23aa, >a0... *
->Cluster 1340
-0	23aa, >a0... *
->Cluster 1341
-0	23aa, >a0... *
->Cluster 1342
-0	23aa, >a0... *
->Cluster 1343
-0	23aa, >a0... *
->Cluster 1344
-0	23aa, >a0... *
->Cluster 1345
-0	23aa, >a0... *
->Cluster 1346
-0	23aa, >a0... *
->Cluster 1347
-0	18aa, >a0... at 100.00%
-1	23aa, >a0... *
->Cluster 1348
-0	23aa, >a0... *
->Cluster 1349
-0	23aa, >a0... *
->Cluster 1350
-0	22aa, >a0... at 100.00%
-1	23aa, >a0... *
->Cluster 1351
-0	23aa, >a0... *
->Cluster 1352
-0	23aa, >a0... *
->Cluster 1353
-0	23aa, >a0... *
->Cluster 1354
-0	23aa, >a0... *
->Cluster 1355
-0	23aa, >a0... *
->Cluster 1356
 0	22aa, >a0... at 100.00%
 1	22aa, >a0... at 100.00%
 2	23aa, >a0... *
->Cluster 1357
+>Cluster 1328
 0	23aa, >a0... *
->Cluster 1358
+>Cluster 1329
 0	22aa, >a0... *
->Cluster 1359
+1	22aa, >a0... at 100.00%
+>Cluster 1330
 0	22aa, >a0... *
->Cluster 1360
+>Cluster 1331
 0	12aa, >a0... at 100.00%
 1	22aa, >a0... *
->Cluster 1361
+>Cluster 1332
 0	22aa, >a0... *
+>Cluster 1333
+0	22aa, >a0... *
+1	21aa, >a0... at 100.00%
+>Cluster 1334
+0	22aa, >a0... *
+>Cluster 1335
+0	22aa, >a0... *
+>Cluster 1336
+0	22aa, >a0... *
+>Cluster 1337
+0	22aa, >a0... *
+1	20aa, >a0... at 100.00%
+>Cluster 1338
+0	20aa, >a0... at 100.00%
+1	22aa, >a0... *
+>Cluster 1339
+0	22aa, >a0... *
+>Cluster 1340
+0	22aa, >a0... *
+>Cluster 1341
+0	22aa, >a0... *
+1	22aa, >a0... at 100.00%
+>Cluster 1342
+0	22aa, >a0... *
+>Cluster 1343
+0	22aa, >a0... *
+>Cluster 1344
+0	22aa, >a0... *
+1	13aa, >a0... at 100.00%
+>Cluster 1345
+0	22aa, >a0... *
+>Cluster 1346
+0	22aa, >a0... *
+>Cluster 1347
+0	22aa, >a0... *
+>Cluster 1348
+0	18aa, >a0... at 100.00%
+1	22aa, >a0... *
+>Cluster 1349
+0	22aa, >a0... *
+>Cluster 1350
+0	22aa, >a0... *
+>Cluster 1351
+0	22aa, >a0... *
+>Cluster 1352
+0	22aa, >a0... *
+>Cluster 1353
+0	22aa, >a0... *
+>Cluster 1354
+0	22aa, >a0... *
+>Cluster 1355
+0	22aa, >a0... *
+>Cluster 1356
+0	22aa, >a1... *
+1	19aa, >a1... at 100.00%
+2	14aa, >a1... at 100.00%
+3	18aa, >a0... at 100.00%
+4	15aa, >a0... at 100.00%
+5	13aa, >a0... at 100.00%
+>Cluster 1357
+0	22aa, >a1... *
+1	18aa, >a1... at 100.00%
+2	17aa, >a1... at 100.00%
+3	19aa, >a1... at 100.00%
+>Cluster 1358
+0	22aa, >a1... *
+>Cluster 1359
+0	22aa, >a1... *
+>Cluster 1360
+0	22aa, >a1... *
+>Cluster 1361
+0	22aa, >a1... *
 >Cluster 1362
 0	22aa, >a0... *
-1	21aa, >a0... at 100.00%
 >Cluster 1363
-0	21aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	22aa, >a0... *
 >Cluster 1364
 0	22aa, >a0... *
-1	21aa, >a0... at 100.00%
 >Cluster 1365
 0	22aa, >a0... *
 >Cluster 1366
@@ -3073,10 +3110,8 @@
 0	22aa, >a0... *
 >Cluster 1368
 0	22aa, >a0... *
-1	20aa, >a0... at 100.00%
 >Cluster 1369
-0	20aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	22aa, >a0... *
 >Cluster 1370
 0	22aa, >a0... *
 >Cluster 1371
@@ -3091,7 +3126,6 @@
 0	22aa, >a0... *
 >Cluster 1376
 0	22aa, >a0... *
-1	13aa, >a0... at 100.00%
 >Cluster 1377
 0	22aa, >a0... *
 >Cluster 1378
@@ -3099,10 +3133,11 @@
 >Cluster 1379
 0	22aa, >a0... *
 >Cluster 1380
-0	18aa, >a0... at 100.00%
-1	22aa, >a0... *
->Cluster 1381
 0	22aa, >a0... *
+1	21aa, >a0... at 100.00%
+>Cluster 1381
+0	21aa, >a0... at 100.00%
+1	22aa, >a0... *
 >Cluster 1382
 0	22aa, >a0... *
 >Cluster 1383
@@ -3116,25 +3151,17 @@
 >Cluster 1387
 0	22aa, >a0... *
 >Cluster 1388
-0	22aa, >a1... *
-1	19aa, >a1... at 100.00%
-2	14aa, >a1... at 100.00%
-3	18aa, >a0... at 100.00%
-4	15aa, >a0... at 100.00%
-5	13aa, >a0... at 100.00%
+0	22aa, >a0... *
 >Cluster 1389
-0	22aa, >a1... *
-1	18aa, >a1... at 100.00%
-2	17aa, >a1... at 100.00%
-3	19aa, >a1... at 100.00%
+0	22aa, >a0... *
 >Cluster 1390
-0	22aa, >a1... *
+0	22aa, >a0... *
 >Cluster 1391
-0	22aa, >a1... *
+0	22aa, >a0... *
 >Cluster 1392
-0	22aa, >a1... *
+0	22aa, >a0... *
 >Cluster 1393
-0	22aa, >a1... *
+0	22aa, >a0... *
 >Cluster 1394
 0	22aa, >a0... *
 >Cluster 1395
@@ -3148,9 +3175,11 @@
 >Cluster 1399
 0	22aa, >a0... *
 >Cluster 1400
-0	22aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	22aa, >a0... *
 >Cluster 1401
-0	22aa, >a0... *
+0	21aa, >a0... at 100.00%
+1	22aa, >a0... *
 >Cluster 1402
 0	22aa, >a0... *
 >Cluster 1403
@@ -3171,10 +3200,8 @@
 0	22aa, >a0... *
 >Cluster 1411
 0	22aa, >a0... *
-1	21aa, >a0... at 100.00%
 >Cluster 1412
-0	21aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	22aa, >a0... *
 >Cluster 1413
 0	22aa, >a0... *
 >Cluster 1414
@@ -3184,94 +3211,101 @@
 >Cluster 1416
 0	22aa, >a0... *
 >Cluster 1417
-0	22aa, >a0... *
+0	20aa, >a0... at 100.00%
+1	22aa, >a0... *
 >Cluster 1418
-0	22aa, >a0... *
+0	20aa, >a0... at 100.00%
+1	22aa, >a0... *
 >Cluster 1419
 0	22aa, >a0... *
+1	22aa, >a0... at 100.00%
 >Cluster 1420
-0	22aa, >a0... *
+0	21aa, >a0... at 100.00%
+1	21aa, >a0... at 100.00%
+2	22aa, >a0... *
 >Cluster 1421
 0	22aa, >a0... *
 >Cluster 1422
 0	22aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 1423
 0	22aa, >a0... *
 >Cluster 1424
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1425
-0	22aa, >a0... *
+0	21aa, >a0... *
+1	17aa, >a0... at 100.00%
 >Cluster 1426
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1427
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1428
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1429
-0	22aa, >a0... *
->Cluster 1430
-0	22aa, >a0... *
->Cluster 1431
 0	11aa, >a0... at 100.00%
-1	22aa, >a0... *
+1	16aa, >a0... at 100.00%
+2	21aa, >a0... *
+>Cluster 1430
+0	21aa, >a0... *
+>Cluster 1431
+0	21aa, >a0... *
 >Cluster 1432
-0	21aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1433
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1434
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1435
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1436
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1437
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1438
-0	22aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	21aa, >a0... *
 >Cluster 1439
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1440
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1441
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1442
-0	22aa, >a0... *
+0	21aa, >a0... *
+1	21aa, >a0... at 100.00%
 >Cluster 1443
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1444
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1445
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1446
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1447
-0	22aa, >a0... *
+0	21aa, >a0... *
+1	21aa, >a0... at 100.00%
 >Cluster 1448
-0	20aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1449
-0	20aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1450
-0	22aa, >a0... *
+0	21aa, >a0... *
+1	17aa, >a0... at 100.00%
+2	21aa, >a0... at 100.00%
 >Cluster 1451
-0	21aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1452
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1453
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1454
-0	22aa, >a0... *
-1	11aa, >a0... at 100.00%
+0	21aa, >a0... *
 >Cluster 1455
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1456
-0	15aa, >a0... at 100.00%
-1	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1457
-0	22aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1458
 0	21aa, >a0... *
 >Cluster 1459
@@ -3280,7 +3314,6 @@
 0	21aa, >a0... *
 >Cluster 1461
 0	21aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 1462
 0	21aa, >a0... *
 >Cluster 1463
@@ -3288,9 +3321,7 @@
 >Cluster 1464
 0	21aa, >a0... *
 >Cluster 1465
-0	11aa, >a0... at 100.00%
-1	16aa, >a0... at 100.00%
-2	21aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1466
 0	21aa, >a0... *
 >Cluster 1467
@@ -3308,8 +3339,7 @@
 >Cluster 1473
 0	21aa, >a0... *
 >Cluster 1474
-0	11aa, >a0... at 100.00%
-1	21aa, >a0... *
+0	21aa, >a0... *
 >Cluster 1475
 0	21aa, >a0... *
 >Cluster 1476
@@ -3323,7 +3353,8 @@
 >Cluster 1480
 0	21aa, >a0... *
 >Cluster 1481
-0	21aa, >a0... *
+0	20aa, >a0... at 100.00%
+1	21aa, >a0... *
 >Cluster 1482
 0	21aa, >a0... *
 >Cluster 1483
@@ -3336,7 +3367,6 @@
 0	21aa, >a0... *
 >Cluster 1487
 0	21aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 1488
 0	21aa, >a0... *
 >Cluster 1489
@@ -3355,6 +3385,7 @@
 0	21aa, >a0... *
 >Cluster 1496
 0	21aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 1497
 0	21aa, >a0... *
 >Cluster 1498
@@ -3373,6 +3404,7 @@
 0	21aa, >a0... *
 >Cluster 1505
 0	21aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 1506
 0	21aa, >a0... *
 >Cluster 1507
@@ -3383,108 +3415,107 @@
 0	21aa, >a0... *
 >Cluster 1510
 0	21aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 1511
 0	21aa, >a0... *
 >Cluster 1512
 0	21aa, >a0... *
 >Cluster 1513
 0	21aa, >a0... *
+1	11aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
 >Cluster 1514
 0	21aa, >a0... *
 >Cluster 1515
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1516
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1517
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1518
-0	20aa, >a0... at 100.00%
-1	21aa, >a0... *
+0	20aa, >a0... *
+1	15aa, >a0... at 100.00%
 >Cluster 1519
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1520
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1521
-0	21aa, >a0... *
+0	20aa, >a0... *
+1	14aa, >a0... at 100.00%
 >Cluster 1522
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1523
-0	21aa, >a0... *
+0	19aa, >a0... at 100.00%
+1	20aa, >a0... *
 >Cluster 1524
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1525
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1526
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1527
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1528
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1529
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1530
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1531
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1532
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1533
-0	21aa, >a0... *
-1	20aa, >a0... at 100.00%
+0	20aa, >a0... *
 >Cluster 1534
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1535
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1536
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1537
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1538
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1539
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1540
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1541
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1542
-0	21aa, >a0... *
-1	20aa, >a0... at 100.00%
+0	20aa, >a0... *
 >Cluster 1543
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1544
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1545
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1546
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1547
-0	21aa, >a0... *
-1	20aa, >a0... at 100.00%
+0	20aa, >a0... *
 >Cluster 1548
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1549
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1550
-0	21aa, >a0... *
-1	11aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
+0	20aa, >a0... *
 >Cluster 1551
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1552
-0	13aa, >a0... at 100.00%
-1	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1553
-0	21aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1554
 0	20aa, >a0... *
 >Cluster 1555
 0	20aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 1556
 0	20aa, >a0... *
 >Cluster 1557
 0	20aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 1558
 0	20aa, >a0... *
 >Cluster 1559
@@ -3493,12 +3524,10 @@
 0	20aa, >a0... *
 >Cluster 1561
 0	20aa, >a0... *
-1	14aa, >a0... at 100.00%
 >Cluster 1562
 0	20aa, >a0... *
 >Cluster 1563
-0	19aa, >a0... at 100.00%
-1	20aa, >a0... *
+0	20aa, >a0... *
 >Cluster 1564
 0	20aa, >a0... *
 >Cluster 1565
@@ -3510,7 +3539,7 @@
 >Cluster 1568
 0	20aa, >a0... *
 >Cluster 1569
-0	20aa, >a0... *
+0	20aa, >a1... *
 >Cluster 1570
 0	20aa, >a0... *
 >Cluster 1571
@@ -3592,7 +3621,7 @@
 >Cluster 1609
 0	20aa, >a0... *
 >Cluster 1610
-0	20aa, >a1... *
+0	20aa, >a0... *
 >Cluster 1611
 0	20aa, >a0... *
 >Cluster 1612
@@ -3627,6 +3656,7 @@
 0	20aa, >a0... *
 >Cluster 1627
 0	20aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 1628
 0	20aa, >a0... *
 >Cluster 1629
@@ -3639,6 +3669,7 @@
 0	20aa, >a0... *
 >Cluster 1633
 0	20aa, >a0... *
+1	20aa, >a0... at 100.00%
 >Cluster 1634
 0	20aa, >a0... *
 >Cluster 1635
@@ -3670,7 +3701,7 @@
 >Cluster 1648
 0	20aa, >a0... *
 >Cluster 1649
-0	20aa, >a0... *
+0	20aa, >a1... *
 >Cluster 1650
 0	20aa, >a0... *
 >Cluster 1651
@@ -3685,6 +3716,7 @@
 0	20aa, >a0... *
 >Cluster 1656
 0	20aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1657
 0	20aa, >a0... *
 >Cluster 1658
@@ -3699,6 +3731,8 @@
 0	20aa, >a0... *
 >Cluster 1663
 0	20aa, >a0... *
+1	17aa, >a0... at 100.00%
+2	15aa, >a0... at 100.00%
 >Cluster 1664
 0	20aa, >a0... *
 >Cluster 1665
@@ -3706,170 +3740,180 @@
 >Cluster 1666
 0	20aa, >a0... *
 >Cluster 1667
-0	20aa, >a0... *
+0	15aa, >a0... at 100.00%
+1	20aa, >a0... *
 >Cluster 1668
 0	20aa, >a0... *
 >Cluster 1669
 0	20aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1670
 0	20aa, >a0... *
 >Cluster 1671
 0	20aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1672
 0	20aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1673
 0	20aa, >a0... *
 >Cluster 1674
 0	20aa, >a0... *
 >Cluster 1675
 0	20aa, >a0... *
->Cluster 1676
-0	20aa, >a0... *
->Cluster 1677
-0	20aa, >a0... *
->Cluster 1678
-0	20aa, >a0... *
->Cluster 1679
-0	20aa, >a0... *
->Cluster 1680
-0	20aa, >a0... *
->Cluster 1681
-0	20aa, >a0... *
->Cluster 1682
-0	20aa, >a0... *
->Cluster 1683
-0	20aa, >a0... *
->Cluster 1684
-0	20aa, >a0... *
->Cluster 1685
-0	20aa, >a0... *
->Cluster 1686
-0	20aa, >a0... *
->Cluster 1687
-0	20aa, >a0... *
->Cluster 1688
-0	20aa, >a0... *
->Cluster 1689
-0	20aa, >a0... *
->Cluster 1690
-0	20aa, >a0... *
->Cluster 1691
-0	20aa, >a0... *
->Cluster 1692
-0	20aa, >a0... *
->Cluster 1693
-0	20aa, >a0... *
->Cluster 1694
-0	20aa, >a1... *
->Cluster 1695
-0	20aa, >a0... *
->Cluster 1696
-0	20aa, >a0... *
->Cluster 1697
-0	20aa, >a0... *
->Cluster 1698
-0	20aa, >a0... *
->Cluster 1699
-0	20aa, >a0... *
->Cluster 1700
-0	20aa, >a0... *
->Cluster 1701
-0	20aa, >a0... *
-1	18aa, >a0... at 100.00%
->Cluster 1702
-0	20aa, >a0... *
->Cluster 1703
-0	20aa, >a0... *
->Cluster 1704
-0	20aa, >a0... *
->Cluster 1705
-0	20aa, >a0... *
->Cluster 1706
-0	20aa, >a0... *
->Cluster 1707
-0	20aa, >a0... *
->Cluster 1708
-0	20aa, >a0... *
-1	17aa, >a0... at 100.00%
-2	15aa, >a0... at 100.00%
->Cluster 1709
-0	20aa, >a0... *
->Cluster 1710
-0	20aa, >a0... *
->Cluster 1711
-0	20aa, >a0... *
->Cluster 1712
-0	15aa, >a0... at 100.00%
-1	20aa, >a0... *
->Cluster 1713
-0	20aa, >a0... *
->Cluster 1714
-0	20aa, >a0... *
-1	18aa, >a0... at 100.00%
->Cluster 1715
-0	20aa, >a0... *
->Cluster 1716
-0	20aa, >a0... *
-1	18aa, >a0... at 100.00%
->Cluster 1717
-0	20aa, >a0... *
-1	18aa, >a0... at 100.00%
->Cluster 1718
-0	20aa, >a0... *
->Cluster 1719
-0	20aa, >a0... *
->Cluster 1720
-0	20aa, >a0... *
 1	19aa, >a0... at 100.00%
 2	18aa, >a0... at 100.00%
 3	17aa, >a0... at 100.00%
 4	19aa, >a0... at 100.00%
->Cluster 1721
+>Cluster 1676
 0	20aa, >a0... *
->Cluster 1722
+>Cluster 1677
 0	20aa, >a0... *
 1	15aa, >a0... at 100.00%
->Cluster 1723
+>Cluster 1678
+0	20aa, >a0... *
+1	20aa, >a0... at 100.00%
+2	20aa, >a0... at 100.00%
+>Cluster 1679
+0	20aa, >a0... *
+>Cluster 1680
 0	20aa, >a0... *
 1	19aa, >a0... at 100.00%
-2	18aa, >a0... at 100.00%
+>Cluster 1681
+0	20aa, >a0... *
+1	20aa, >a0... at 100.00%
+>Cluster 1682
+0	20aa, >a0... *
+>Cluster 1683
+0	19aa, >a0... *
+>Cluster 1684
+0	19aa, >a0... *
+>Cluster 1685
+0	19aa, >a0... *
+>Cluster 1686
+0	19aa, >a0... *
+>Cluster 1687
+0	19aa, >a0... *
+>Cluster 1688
+0	19aa, >a0... *
+>Cluster 1689
+0	19aa, >a0... *
+>Cluster 1690
+0	19aa, >a0... *
+>Cluster 1691
+0	19aa, >a0... *
+>Cluster 1692
+0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
+>Cluster 1693
+0	19aa, >a0... *
+>Cluster 1694
+0	19aa, >a0... *
+>Cluster 1695
+0	19aa, >a0... *
+>Cluster 1696
+0	19aa, >a0... *
+>Cluster 1697
+0	19aa, >a0... *
+1	17aa, >a0... at 100.00%
+>Cluster 1698
+0	19aa, >a0... *
+>Cluster 1699
+0	19aa, >a0... *
+>Cluster 1700
+0	19aa, >a0... *
+>Cluster 1701
+0	19aa, >a0... *
+>Cluster 1702
+0	19aa, >a0... *
+>Cluster 1703
+0	11aa, >a0... at 100.00%
+1	16aa, >a0... at 100.00%
+2	19aa, >a0... *
+>Cluster 1704
+0	19aa, >a0... *
+>Cluster 1705
+0	19aa, >a0... *
+>Cluster 1706
+0	19aa, >a0... *
+>Cluster 1707
+0	19aa, >a0... *
+>Cluster 1708
+0	19aa, >a0... *
+>Cluster 1709
+0	19aa, >a0... *
+>Cluster 1710
+0	19aa, >a0... *
+>Cluster 1711
+0	19aa, >a0... *
+>Cluster 1712
+0	12aa, >a0... at 100.00%
+1	16aa, >a0... at 100.00%
+2	17aa, >a0... at 100.00%
+3	19aa, >a0... *
+>Cluster 1713
+0	19aa, >a0... *
+>Cluster 1714
+0	19aa, >a0... *
+>Cluster 1715
+0	17aa, >a0... at 100.00%
+1	19aa, >a0... *
+>Cluster 1716
+0	19aa, >a0... *
+>Cluster 1717
+0	19aa, >a0... *
+>Cluster 1718
+0	19aa, >a0... *
+>Cluster 1719
+0	19aa, >a0... *
+>Cluster 1720
+0	19aa, >a0... *
+>Cluster 1721
+0	19aa, >a0... *
+>Cluster 1722
+0	19aa, >a0... *
+>Cluster 1723
+0	19aa, >a0... *
 >Cluster 1724
-0	20aa, >a0... *
+0	19aa, >a0... *
 >Cluster 1725
-0	20aa, >a0... *
+0	19aa, >a0... *
 >Cluster 1726
 0	19aa, >a0... *
 >Cluster 1727
 0	19aa, >a0... *
 >Cluster 1728
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1729
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1730
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1731
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1732
 0	19aa, >a0... *
 >Cluster 1733
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1734
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1735
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1736
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1737
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1738
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1739
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1740
-0	19aa, >a0... *
-1	17aa, >a0... at 100.00%
+0	19aa, >a1... *
 >Cluster 1741
-0	19aa, >a0... *
+0	19aa, >a1... *
 >Cluster 1742
 0	19aa, >a0... *
 >Cluster 1743
@@ -3880,14 +3924,15 @@
 0	19aa, >a0... *
 >Cluster 1746
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1747
-0	11aa, >a0... at 100.00%
-1	16aa, >a0... at 100.00%
-2	19aa, >a0... *
+0	19aa, >a0... *
 >Cluster 1748
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1749
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1750
 0	19aa, >a0... *
 >Cluster 1751
@@ -3903,17 +3948,13 @@
 >Cluster 1756
 0	19aa, >a0... *
 >Cluster 1757
-0	12aa, >a0... at 100.00%
-1	16aa, >a0... at 100.00%
-2	17aa, >a0... at 100.00%
-3	19aa, >a0... *
+0	19aa, >a0... *
 >Cluster 1758
 0	19aa, >a0... *
 >Cluster 1759
 0	19aa, >a0... *
 >Cluster 1760
-0	17aa, >a0... at 100.00%
-1	19aa, >a0... *
+0	19aa, >a0... *
 >Cluster 1761
 0	19aa, >a0... *
 >Cluster 1762
@@ -3936,9 +3977,6 @@
 0	19aa, >a0... *
 >Cluster 1771
 0	19aa, >a0... *
-1	18aa, >a0... at 100.00%
-2	18aa, >a0... at 100.00%
-3	18aa, >a0... at 100.00%
 >Cluster 1772
 0	19aa, >a0... *
 >Cluster 1773
@@ -3952,23 +3990,23 @@
 >Cluster 1777
 0	19aa, >a0... *
 >Cluster 1778
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1779
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1780
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1781
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1782
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1783
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1784
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1785
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1786
-0	19aa, >a1... *
+0	19aa, >a0... *
 >Cluster 1787
 0	19aa, >a0... *
 >Cluster 1788
@@ -3977,13 +4015,10 @@
 0	19aa, >a0... *
 >Cluster 1790
 0	19aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 1791
 0	19aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 1792
 0	19aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 1793
 0	19aa, >a0... *
 >Cluster 1794
@@ -4014,6 +4049,7 @@
 0	19aa, >a0... *
 >Cluster 1807
 0	19aa, >a0... *
+1	19aa, >a0... at 100.00%
 >Cluster 1808
 0	19aa, >a0... *
 >Cluster 1809
@@ -4127,12 +4163,12 @@
 >Cluster 1863
 0	19aa, >a0... *
 >Cluster 1864
-0	14aa, >a0... at 100.00%
-1	19aa, >a0... *
+0	19aa, >a0... *
 >Cluster 1865
 0	19aa, >a0... *
 >Cluster 1866
-0	19aa, >a0... *
+0	14aa, >a0... at 100.00%
+1	19aa, >a0... *
 >Cluster 1867
 0	19aa, >a0... *
 >Cluster 1868
@@ -4143,17 +4179,14 @@
 0	19aa, >a0... *
 >Cluster 1871
 0	19aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 1872
 0	19aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 1873
-0	19aa, >a0... *
-1	17aa, >a0... at 100.00%
->Cluster 1874
 0	17aa, >a0... at 100.00%
 1	18aa, >a0... *
 2	13aa, >a0... at 100.00%
+>Cluster 1874
+0	18aa, >a0... *
 >Cluster 1875
 0	18aa, >a0... *
 >Cluster 1876
@@ -4197,8 +4230,6 @@
 >Cluster 1895
 0	18aa, >a0... *
 >Cluster 1896
-0	18aa, >a0... *
->Cluster 1897
 0	17aa, >a0... at 100.00%
 1	17aa, >a0... at 100.00%
 2	17aa, >a0... at 100.00%
@@ -4207,20 +4238,23 @@
 5	15aa, >a0... at 100.00%
 6	14aa, >a0... at 100.00%
 7	18aa, >a0... *
+>Cluster 1897
+0	18aa, >a0... *
 >Cluster 1898
 0	18aa, >a0... *
 >Cluster 1899
 0	18aa, >a0... *
+1	18aa, >a0... at 100.00%
+2	18aa, >a0... at 100.00%
 >Cluster 1900
-0	17aa, >a0... at 100.00%
-1	18aa, >a0... *
->Cluster 1901
 0	14aa, >a0... at 100.00%
 1	18aa, >a0... *
 2	14aa, >a0... at 100.00%
 3	13aa, >a0... at 100.00%
 4	13aa, >a0... at 100.00%
 5	12aa, >a0... at 100.00%
+>Cluster 1901
+0	18aa, >a0... *
 >Cluster 1902
 0	18aa, >a0... *
 >Cluster 1903
@@ -4240,17 +4274,17 @@
 >Cluster 1910
 0	18aa, >a0... *
 >Cluster 1911
-0	18aa, >a0... *
->Cluster 1912
 0	15aa, >a0... at 100.00%
 1	18aa, >a0... *
 2	16aa, >a0... at 100.00%
 3	17aa, >a0... at 100.00%
->Cluster 1913
+>Cluster 1912
 0	18aa, >a0... *
 1	15aa, >a0... at 100.00%
 2	16aa, >a0... at 100.00%
 3	17aa, >a0... at 100.00%
+>Cluster 1913
+0	18aa, >a0... *
 >Cluster 1914
 0	18aa, >a0... *
 >Cluster 1915
@@ -4265,16 +4299,16 @@
 0	18aa, >a0... *
 >Cluster 1920
 0	18aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1921
 0	18aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 1922
 0	18aa, >a0... *
 >Cluster 1923
 0	18aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1924
 0	18aa, >a0... *
-1	18aa, >a0... at 100.00%
 >Cluster 1925
 0	18aa, >a0... *
 >Cluster 1926
@@ -4292,10 +4326,10 @@
 >Cluster 1932
 0	18aa, >a0... *
 >Cluster 1933
-0	18aa, >a0... *
->Cluster 1934
 0	17aa, >a0... at 100.00%
 1	18aa, >a0... *
+>Cluster 1934
+0	18aa, >a0... *
 >Cluster 1935
 0	18aa, >a0... *
 >Cluster 1936
@@ -4342,11 +4376,11 @@
 0	18aa, >a0... *
 >Cluster 1957
 0	18aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 1958
 0	18aa, >a0... *
 >Cluster 1959
 0	18aa, >a0... *
-1	12aa, >a0... at 100.00%
 >Cluster 1960
 0	18aa, >a0... *
 >Cluster 1961
@@ -4383,13 +4417,13 @@
 0	18aa, >a0... *
 >Cluster 1977
 0	18aa, >a0... *
+1	15aa, >a0... at 100.00%
 >Cluster 1978
 0	18aa, >a0... *
 >Cluster 1979
 0	18aa, >a0... *
 >Cluster 1980
 0	18aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 1981
 0	18aa, >a0... *
 >Cluster 1982
@@ -4404,16 +4438,16 @@
 0	18aa, >a0... *
 >Cluster 1987
 0	18aa, >a0... *
-1	16aa, >a0... at 100.00%
+1	15aa, >a0... at 100.00%
 >Cluster 1988
 0	18aa, >a0... *
 >Cluster 1989
 0	18aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 1990
 0	18aa, >a0... *
 >Cluster 1991
 0	18aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 1992
 0	18aa, >a0... *
 >Cluster 1993
@@ -4425,9 +4459,11 @@
 >Cluster 1996
 0	18aa, >a0... *
 >Cluster 1997
-0	18aa, >a0... *
+0	17aa, >a0... at 100.00%
+1	18aa, >a0... *
 >Cluster 1998
-0	18aa, >a0... *
+0	17aa, >a0... at 100.00%
+1	18aa, >a0... *
 >Cluster 1999
 0	18aa, >a0... *
 >Cluster 2000
@@ -4437,65 +4473,65 @@
 >Cluster 2002
 0	18aa, >a0... *
 >Cluster 2003
-0	17aa, >a0... at 100.00%
-1	18aa, >a0... *
+0	18aa, >a0... *
 >Cluster 2004
-0	17aa, >a0... at 100.00%
-1	18aa, >a0... *
+0	18aa, >a0... *
 >Cluster 2005
 0	18aa, >a0... *
 >Cluster 2006
 0	18aa, >a0... *
 >Cluster 2007
-0	18aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	18aa, >a0... *
 >Cluster 2008
 0	18aa, >a0... *
 >Cluster 2009
-0	18aa, >a0... *
->Cluster 2010
-0	18aa, >a0... *
->Cluster 2011
-0	18aa, >a0... *
->Cluster 2012
-0	11aa, >a0... at 100.00%
-1	18aa, >a0... *
->Cluster 2013
-0	18aa, >a0... *
->Cluster 2014
 0	13aa, >a0... at 100.00%
 1	11aa, >a0... at 100.00%
 2	18aa, >a0... *
->Cluster 2015
+>Cluster 2010
 0	17aa, >a0... at 100.00%
 1	18aa, >a0... *
+>Cluster 2011
+0	18aa, >a0... *
+>Cluster 2012
+0	18aa, >a0... *
+>Cluster 2013
+0	18aa, >a0... *
+>Cluster 2014
+0	18aa, >a0... *
+>Cluster 2015
+0	18aa, >a0... *
 >Cluster 2016
 0	18aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2017
 0	18aa, >a0... *
 >Cluster 2018
 0	18aa, >a0... *
+1	12aa, >a0... at 100.00%
+2	18aa, >a0... at 100.00%
 >Cluster 2019
 0	18aa, >a0... *
 >Cluster 2020
 0	18aa, >a0... *
+1	18aa, >a0... at 100.00%
 >Cluster 2021
-0	18aa, >a0... *
-1	16aa, >a0... at 100.00%
+0	12aa, >a0... at 100.00%
+1	18aa, >a0... *
 >Cluster 2022
-0	18aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	18aa, >a0... *
 >Cluster 2023
 0	18aa, >a0... *
 >Cluster 2024
 0	18aa, >a0... *
 >Cluster 2025
-0	12aa, >a0... at 100.00%
-1	18aa, >a0... *
+0	18aa, >a0... *
 >Cluster 2026
-0	12aa, >a0... at 100.00%
-1	18aa, >a0... *
+0	18aa, >a0... *
 >Cluster 2027
-0	12aa, >a0... at 100.00%
-1	18aa, >a0... *
+0	18aa, >a0... *
 >Cluster 2028
 0	18aa, >a0... *
 >Cluster 2029
@@ -4528,6 +4564,7 @@
 0	18aa, >a0... *
 >Cluster 2043
 0	18aa, >a0... *
+1	17aa, >a0... at 100.00%
 >Cluster 2044
 0	18aa, >a0... *
 >Cluster 2045
@@ -4538,7 +4575,6 @@
 0	18aa, >a0... *
 >Cluster 2048
 0	18aa, >a0... *
-1	17aa, >a0... at 100.00%
 >Cluster 2049
 0	18aa, >a0... *
 >Cluster 2050
@@ -4546,24 +4582,24 @@
 >Cluster 2051
 0	18aa, >a0... *
 >Cluster 2052
-0	18aa, >a0... *
->Cluster 2053
-0	18aa, >a0... *
->Cluster 2054
-0	18aa, >a0... *
->Cluster 2055
-0	18aa, >a0... *
->Cluster 2056
-0	18aa, >a0... *
->Cluster 2057
 0	17aa, >a0... *
 1	15aa, >a0... at 100.00%
 2	14aa, >a0... at 100.00%
+>Cluster 2053
+0	17aa, >a0... *
+>Cluster 2054
+0	17aa, >a0... *
+1	15aa, >a0... at 100.00%
+>Cluster 2055
+0	17aa, >a0... *
+>Cluster 2056
+0	17aa, >a0... *
+>Cluster 2057
+0	17aa, >a0... *
 >Cluster 2058
 0	17aa, >a0... *
 >Cluster 2059
 0	17aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2060
 0	17aa, >a0... *
 >Cluster 2061
@@ -4576,8 +4612,6 @@
 0	17aa, >a0... *
 >Cluster 2065
 0	17aa, >a0... *
-1	15aa, >a0... at 100.00%
-2	15aa, >a0... at 100.00%
 >Cluster 2066
 0	17aa, >a0... *
 >Cluster 2067
@@ -4678,7 +4712,6 @@
 0	17aa, >a0... *
 >Cluster 2115
 0	17aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2116
 0	17aa, >a0... *
 >Cluster 2117
@@ -4802,7 +4835,8 @@
 >Cluster 2176
 0	17aa, >a0... *
 >Cluster 2177
-0	17aa, >a0... *
+0	16aa, >a0... at 100.00%
+1	17aa, >a0... *
 >Cluster 2178
 0	17aa, >a0... *
 >Cluster 2179
@@ -4842,7 +4876,9 @@
 >Cluster 2196
 0	17aa, >a0... *
 >Cluster 2197
-0	17aa, >a0... *
+0	16aa, >a0... at 100.00%
+1	17aa, >a0... *
+2	12aa, >a0... at 100.00%
 >Cluster 2198
 0	17aa, >a0... *
 >Cluster 2199
@@ -4851,140 +4887,144 @@
 0	17aa, >a0... *
 >Cluster 2201
 0	17aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2202
 0	17aa, >a0... *
 >Cluster 2203
 0	17aa, >a0... *
+1	15aa, >a0... at 100.00%
+2	16aa, >a0... at 100.00%
 >Cluster 2204
 0	17aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 2205
 0	17aa, >a0... *
 >Cluster 2206
 0	17aa, >a0... *
 >Cluster 2207
-0	17aa, >a0... *
->Cluster 2208
-0	17aa, >a0... *
->Cluster 2209
-0	17aa, >a0... *
->Cluster 2210
-0	17aa, >a0... *
->Cluster 2211
-0	17aa, >a0... *
->Cluster 2212
-0	17aa, >a0... *
->Cluster 2213
-0	17aa, >a0... *
->Cluster 2214
-0	17aa, >a0... *
->Cluster 2215
-0	17aa, >a0... *
->Cluster 2216
-0	17aa, >a0... *
->Cluster 2217
-0	17aa, >a0... *
->Cluster 2218
-0	17aa, >a0... *
->Cluster 2219
-0	17aa, >a0... *
->Cluster 2220
-0	17aa, >a0... *
->Cluster 2221
-0	17aa, >a0... *
->Cluster 2222
-0	17aa, >a0... *
->Cluster 2223
-0	17aa, >a0... *
->Cluster 2224
-0	17aa, >a0... *
->Cluster 2225
-0	17aa, >a0... *
->Cluster 2226
-0	17aa, >a0... *
->Cluster 2227
-0	16aa, >a0... at 100.00%
-1	17aa, >a0... *
->Cluster 2228
-0	17aa, >a0... *
->Cluster 2229
-0	17aa, >a0... *
->Cluster 2230
-0	17aa, >a0... *
->Cluster 2231
-0	17aa, >a0... *
->Cluster 2232
-0	17aa, >a0... *
->Cluster 2233
-0	17aa, >a0... *
->Cluster 2234
-0	17aa, >a0... *
->Cluster 2235
-0	17aa, >a0... *
->Cluster 2236
-0	17aa, >a0... *
->Cluster 2237
-0	17aa, >a0... *
->Cluster 2238
-0	17aa, >a0... *
->Cluster 2239
-0	17aa, >a0... *
->Cluster 2240
-0	17aa, >a0... *
->Cluster 2241
-0	17aa, >a0... *
->Cluster 2242
-0	17aa, >a0... *
->Cluster 2243
-0	17aa, >a0... *
->Cluster 2244
-0	17aa, >a0... *
->Cluster 2245
-0	17aa, >a0... *
->Cluster 2246
-0	17aa, >a0... *
->Cluster 2247
-0	17aa, >a0... *
->Cluster 2248
-0	16aa, >a0... at 100.00%
-1	17aa, >a0... *
-2	12aa, >a0... at 100.00%
->Cluster 2249
-0	17aa, >a0... *
->Cluster 2250
-0	17aa, >a0... *
->Cluster 2251
-0	17aa, >a0... *
->Cluster 2252
-0	17aa, >a0... *
-1	16aa, >a0... at 100.00%
->Cluster 2253
-0	17aa, >a0... *
->Cluster 2254
-0	17aa, >a0... *
+0	16aa, >a0... *
 1	15aa, >a0... at 100.00%
-2	16aa, >a0... at 100.00%
+>Cluster 2208
+0	16aa, >a0... *
+1	15aa, >a0... at 100.00%
+>Cluster 2209
+0	16aa, >a0... *
+1	15aa, >a0... at 100.00%
+>Cluster 2210
+0	16aa, >a0... *
+1	15aa, >a0... at 100.00%
+>Cluster 2211
+0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
+>Cluster 2212
+0	16aa, >a0... *
+>Cluster 2213
+0	16aa, >a0... *
+>Cluster 2214
+0	16aa, >a0... *
+>Cluster 2215
+0	16aa, >a0... *
+>Cluster 2216
+0	16aa, >a0... *
+>Cluster 2217
+0	16aa, >a0... *
+>Cluster 2218
+0	16aa, >a0... *
+>Cluster 2219
+0	16aa, >a0... *
+>Cluster 2220
+0	16aa, >a0... *
+>Cluster 2221
+0	16aa, >a0... *
+>Cluster 2222
+0	16aa, >a0... *
+>Cluster 2223
+0	16aa, >a0... *
+>Cluster 2224
+0	16aa, >a0... *
+>Cluster 2225
+0	16aa, >a0... *
+>Cluster 2226
+0	16aa, >a0... *
+1	15aa, >a0... at 100.00%
+2	15aa, >a0... at 100.00%
+3	15aa, >a0... at 100.00%
+>Cluster 2227
+0	13aa, >a0... at 100.00%
+1	16aa, >a0... *
+>Cluster 2228
+0	13aa, >a0... at 100.00%
+1	16aa, >a0... *
+>Cluster 2229
+0	16aa, >a0... *
+>Cluster 2230
+0	16aa, >a0... *
+>Cluster 2231
+0	16aa, >a0... *
+>Cluster 2232
+0	16aa, >a0... *
+>Cluster 2233
+0	16aa, >a0... *
+>Cluster 2234
+0	16aa, >a0... *
+>Cluster 2235
+0	16aa, >a0... *
+>Cluster 2236
+0	16aa, >a0... *
+>Cluster 2237
+0	16aa, >a0... *
+>Cluster 2238
+0	16aa, >a0... *
+>Cluster 2239
+0	16aa, >a0... *
+>Cluster 2240
+0	16aa, >a0... *
+>Cluster 2241
+0	16aa, >a0... *
+>Cluster 2242
+0	16aa, >a0... *
+>Cluster 2243
+0	16aa, >a0... *
+>Cluster 2244
+0	16aa, >a0... *
+>Cluster 2245
+0	16aa, >a0... *
+>Cluster 2246
+0	16aa, >a0... *
+>Cluster 2247
+0	16aa, >a0... *
+>Cluster 2248
+0	16aa, >a0... *
+>Cluster 2249
+0	16aa, >a0... *
+>Cluster 2250
+0	16aa, >a0... *
+>Cluster 2251
+0	16aa, >a0... *
+>Cluster 2252
+0	16aa, >a0... *
+>Cluster 2253
+0	16aa, >a0... *
+>Cluster 2254
+0	16aa, >a0... *
 >Cluster 2255
-0	17aa, >a0... *
+0	16aa, >a0... *
 >Cluster 2256
-0	17aa, >a0... *
+0	16aa, >a0... *
 >Cluster 2257
-0	17aa, >a0... *
+0	16aa, >a0... *
 >Cluster 2258
-0	17aa, >a0... *
+0	16aa, >a0... *
 >Cluster 2259
-0	17aa, >a0... *
+0	16aa, >a0... *
 >Cluster 2260
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2261
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2262
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2263
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2264
 0	16aa, >a0... *
 >Cluster 2265
@@ -5013,19 +5053,21 @@
 0	16aa, >a0... *
 >Cluster 2277
 0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2278
 0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2279
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2280
-0	13aa, >a0... at 100.00%
-1	16aa, >a0... *
+0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2281
-0	13aa, >a0... at 100.00%
-1	16aa, >a0... *
+0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2282
 0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2283
 0	16aa, >a0... *
 >Cluster 2284
@@ -5036,6 +5078,7 @@
 0	16aa, >a0... *
 >Cluster 2287
 0	16aa, >a0... *
+1	16aa, >a0... at 100.00%
 >Cluster 2288
 0	16aa, >a0... *
 >Cluster 2289
@@ -5048,8 +5091,10 @@
 0	16aa, >a0... *
 >Cluster 2293
 0	16aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2294
 0	16aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2295
 0	16aa, >a0... *
 >Cluster 2296
@@ -5080,6 +5125,7 @@
 0	16aa, >a0... *
 >Cluster 2309
 0	16aa, >a0... *
+1	15aa, >a0... at 100.00%
 >Cluster 2310
 0	16aa, >a0... *
 >Cluster 2311
@@ -5097,7 +5143,8 @@
 >Cluster 2317
 0	16aa, >a0... *
 >Cluster 2318
-0	16aa, >a0... *
+0	15aa, >a0... at 100.00%
+1	16aa, >a0... *
 >Cluster 2319
 0	16aa, >a0... *
 >Cluster 2320
@@ -5114,14 +5161,14 @@
 0	16aa, >a0... *
 >Cluster 2326
 0	16aa, >a0... *
+1	14aa, >a0... at 100.00%
+2	13aa, >a0... at 100.00%
 >Cluster 2327
 0	16aa, >a0... *
 >Cluster 2328
 0	16aa, >a0... *
 >Cluster 2329
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
-2	15aa, >a0... at 100.00%
 >Cluster 2330
 0	16aa, >a0... *
 >Cluster 2331
@@ -5132,7 +5179,6 @@
 0	16aa, >a0... *
 >Cluster 2334
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2335
 0	16aa, >a0... *
 >Cluster 2336
@@ -5143,8 +5189,6 @@
 0	16aa, >a0... *
 >Cluster 2339
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
-2	14aa, >a0... at 100.00%
 >Cluster 2340
 0	16aa, >a0... *
 >Cluster 2341
@@ -5155,10 +5199,8 @@
 0	16aa, >a0... *
 >Cluster 2344
 0	16aa, >a0... *
-1	13aa, >a0... at 100.00%
 >Cluster 2345
 0	16aa, >a0... *
-1	13aa, >a0... at 100.00%
 >Cluster 2346
 0	16aa, >a0... *
 >Cluster 2347
@@ -5183,8 +5225,11 @@
 0	16aa, >a0... *
 >Cluster 2357
 0	16aa, >a0... *
+1	15aa, >a0... at 100.00%
 >Cluster 2358
-0	16aa, >a0... *
+0	15aa, >a0... at 100.00%
+1	15aa, >a0... at 100.00%
+2	16aa, >a0... *
 >Cluster 2359
 0	16aa, >a0... *
 >Cluster 2360
@@ -5193,136 +5238,130 @@
 0	16aa, >a0... *
 >Cluster 2362
 0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
 >Cluster 2363
-0	16aa, >a0... *
->Cluster 2364
-0	16aa, >a0... *
->Cluster 2365
-0	16aa, >a0... *
->Cluster 2366
-0	16aa, >a0... *
->Cluster 2367
-0	16aa, >a0... *
->Cluster 2368
-0	16aa, >a0... *
->Cluster 2369
-0	16aa, >a0... *
->Cluster 2370
-0	16aa, >a0... *
->Cluster 2371
-0	15aa, >a0... at 100.00%
-1	16aa, >a0... *
->Cluster 2372
-0	16aa, >a0... *
->Cluster 2373
-0	16aa, >a0... *
->Cluster 2374
-0	16aa, >a0... *
->Cluster 2375
-0	16aa, >a0... *
->Cluster 2376
-0	16aa, >a0... *
->Cluster 2377
-0	16aa, >a0... *
->Cluster 2378
-0	16aa, >a0... *
-1	14aa, >a0... at 100.00%
-2	13aa, >a0... at 100.00%
->Cluster 2379
-0	16aa, >a0... *
->Cluster 2380
-0	16aa, >a0... *
->Cluster 2381
-0	16aa, >a0... *
->Cluster 2382
-0	16aa, >a0... *
->Cluster 2383
-0	16aa, >a0... *
->Cluster 2384
-0	16aa, >a0... *
->Cluster 2385
-0	16aa, >a0... *
->Cluster 2386
-0	16aa, >a0... *
->Cluster 2387
-0	16aa, >a0... *
->Cluster 2388
-0	16aa, >a0... *
->Cluster 2389
-0	16aa, >a0... *
->Cluster 2390
-0	16aa, >a0... *
->Cluster 2391
-0	16aa, >a0... *
->Cluster 2392
-0	16aa, >a0... *
->Cluster 2393
-0	16aa, >a0... *
->Cluster 2394
-0	16aa, >a0... *
->Cluster 2395
-0	16aa, >a0... *
->Cluster 2396
-0	16aa, >a0... *
->Cluster 2397
-0	16aa, >a0... *
->Cluster 2398
-0	16aa, >a0... *
->Cluster 2399
-0	16aa, >a0... *
->Cluster 2400
-0	16aa, >a0... *
->Cluster 2401
-0	16aa, >a0... *
->Cluster 2402
-0	16aa, >a0... *
->Cluster 2403
-0	16aa, >a0... *
->Cluster 2404
-0	16aa, >a0... *
->Cluster 2405
-0	16aa, >a0... *
->Cluster 2406
-0	16aa, >a0... *
->Cluster 2407
-0	16aa, >a0... *
->Cluster 2408
-0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
->Cluster 2409
-0	15aa, >a0... at 100.00%
-1	16aa, >a0... *
->Cluster 2410
-0	16aa, >a0... *
->Cluster 2411
-0	16aa, >a0... *
->Cluster 2412
-0	16aa, >a0... *
->Cluster 2413
-0	16aa, >a0... *
->Cluster 2414
-0	16aa, >a0... *
->Cluster 2415
-0	16aa, >a0... *
->Cluster 2416
-0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
->Cluster 2417
-0	15aa, >a0... at 100.00%
-1	16aa, >a0... *
->Cluster 2418
-0	16aa, >a0... *
->Cluster 2419
-0	16aa, >a0... *
->Cluster 2420
-0	16aa, >a0... *
-1	15aa, >a0... at 100.00%
->Cluster 2421
 0	12aa, >a0... at 100.00%
 1	16aa, >a0... *
-2	14aa, >a0... at 100.00%
-3	14aa, >a0... at 100.00%
+>Cluster 2364
+0	15aa, >a0... *
+>Cluster 2365
+0	15aa, >a0... *
+>Cluster 2366
+0	15aa, >a0... *
+1	15aa, >a0... at 100.00%
+>Cluster 2367
+0	15aa, >a0... *
+>Cluster 2368
+0	15aa, >a0... *
+>Cluster 2369
+0	15aa, >a0... *
+>Cluster 2370
+0	15aa, >a0... *
+>Cluster 2371
+0	15aa, >a0... *
+>Cluster 2372
+0	15aa, >a0... *
+>Cluster 2373
+0	15aa, >a0... *
+>Cluster 2374
+0	15aa, >a0... *
+>Cluster 2375
+0	15aa, >a0... *
+>Cluster 2376
+0	15aa, >a0... *
+>Cluster 2377
+0	15aa, >a0... *
+>Cluster 2378
+0	15aa, >a0... *
+>Cluster 2379
+0	15aa, >a0... *
+>Cluster 2380
+0	15aa, >a0... *
+>Cluster 2381
+0	15aa, >a0... *
+1	15aa, >a0... at 100.00%
+2	15aa, >a0... at 100.00%
+>Cluster 2382
+0	15aa, >a0... *
+>Cluster 2383
+0	15aa, >a0... *
+>Cluster 2384
+0	15aa, >a0... *
+>Cluster 2385
+0	15aa, >a0... *
+>Cluster 2386
+0	15aa, >a0... *
+>Cluster 2387
+0	15aa, >a0... *
+>Cluster 2388
+0	15aa, >a0... *
+>Cluster 2389
+0	15aa, >a0... *
+>Cluster 2390
+0	15aa, >a0... *
+>Cluster 2391
+0	15aa, >a0... *
+>Cluster 2392
+0	15aa, >a0... *
+>Cluster 2393
+0	15aa, >a0... *
+>Cluster 2394
+0	15aa, >a0... *
+>Cluster 2395
+0	15aa, >a0... *
+>Cluster 2396
+0	15aa, >a0... *
+>Cluster 2397
+0	15aa, >a0... *
+>Cluster 2398
+0	15aa, >a0... *
+>Cluster 2399
+0	15aa, >a0... *
+>Cluster 2400
+0	15aa, >a0... *
+>Cluster 2401
+0	15aa, >a0... *
+>Cluster 2402
+0	15aa, >a0... *
+>Cluster 2403
+0	15aa, >a0... *
+>Cluster 2404
+0	15aa, >a0... *
+>Cluster 2405
+0	15aa, >a0... *
+>Cluster 2406
+0	15aa, >a0... *
+>Cluster 2407
+0	15aa, >a0... *
+>Cluster 2408
+0	15aa, >a0... *
+>Cluster 2409
+0	15aa, >a0... *
+>Cluster 2410
+0	15aa, >a0... *
+>Cluster 2411
+0	14aa, >a0... at 100.00%
+1	15aa, >a0... *
+>Cluster 2412
+0	15aa, >a0... *
+>Cluster 2413
+0	15aa, >a0... *
+>Cluster 2414
+0	15aa, >a0... *
+>Cluster 2415
+0	13aa, >a0... at 100.00%
+1	15aa, >a0... *
+>Cluster 2416
+0	15aa, >a0... *
+>Cluster 2417
+0	15aa, >a0... *
+>Cluster 2418
+0	15aa, >a0... *
+>Cluster 2419
+0	15aa, >a0... *
+>Cluster 2420
+0	15aa, >a0... *
+>Cluster 2421
+0	15aa, >a0... *
 >Cluster 2422
 0	15aa, >a0... *
 >Cluster 2423
@@ -5346,7 +5385,8 @@
 >Cluster 2432
 0	15aa, >a0... *
 >Cluster 2433
-0	15aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	15aa, >a0... *
 >Cluster 2434
 0	15aa, >a0... *
 >Cluster 2435
@@ -5376,7 +5416,9 @@
 >Cluster 2447
 0	15aa, >a0... *
 >Cluster 2448
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	14aa, >a0... at 100.00%
+2	15aa, >a0... *
 >Cluster 2449
 0	15aa, >a0... *
 >Cluster 2450
@@ -5389,6 +5431,7 @@
 0	15aa, >a0... *
 >Cluster 2454
 0	15aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 2455
 0	15aa, >a0... *
 >Cluster 2456
@@ -5412,21 +5455,21 @@
 >Cluster 2465
 0	15aa, >a0... *
 >Cluster 2466
-0	14aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	15aa, >a0... *
 >Cluster 2467
 0	15aa, >a0... *
 >Cluster 2468
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	15aa, >a0... *
 >Cluster 2469
 0	15aa, >a0... *
 >Cluster 2470
-0	13aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	15aa, >a0... *
 >Cluster 2471
 0	15aa, >a0... *
 >Cluster 2472
 0	15aa, >a0... *
+1	14aa, >a0... at 100.00%
 >Cluster 2473
 0	15aa, >a0... *
 >Cluster 2474
@@ -5456,10 +5499,10 @@
 >Cluster 2486
 0	15aa, >a0... *
 >Cluster 2487
-0	15aa, >a0... *
->Cluster 2488
-0	11aa, >a0... at 100.00%
+0	13aa, >a0... at 100.00%
 1	15aa, >a0... *
+>Cluster 2488
+0	15aa, >a0... *
 >Cluster 2489
 0	15aa, >a0... *
 >Cluster 2490
@@ -5489,9 +5532,7 @@
 >Cluster 2502
 0	15aa, >a0... *
 >Cluster 2503
-0	13aa, >a0... at 100.00%
-1	14aa, >a0... at 100.00%
-2	15aa, >a0... *
+0	15aa, >a0... *
 >Cluster 2504
 0	15aa, >a0... *
 >Cluster 2505
@@ -5504,7 +5545,6 @@
 0	15aa, >a0... *
 >Cluster 2509
 0	15aa, >a0... *
-1	12aa, >a0... at 100.00%
 >Cluster 2510
 0	15aa, >a0... *
 >Cluster 2511
@@ -5532,34 +5572,36 @@
 >Cluster 2522
 0	15aa, >a0... *
 >Cluster 2523
-0	13aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	15aa, >a0... *
 >Cluster 2524
 0	15aa, >a0... *
 >Cluster 2525
 0	15aa, >a0... *
-1	14aa, >a0... at 100.00%
 >Cluster 2526
 0	15aa, >a0... *
 >Cluster 2527
 0	15aa, >a0... *
-1	14aa, >a0... at 100.00%
 >Cluster 2528
 0	15aa, >a0... *
 >Cluster 2529
 0	15aa, >a0... *
+1	14aa, >a0... at 100.00%
 >Cluster 2530
 0	15aa, >a0... *
 >Cluster 2531
 0	15aa, >a0... *
 >Cluster 2532
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	13aa, >a0... at 100.00%
+2	15aa, >a0... *
 >Cluster 2533
 0	15aa, >a0... *
 >Cluster 2534
 0	15aa, >a0... *
 >Cluster 2535
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	15aa, >a0... *
+2	13aa, >a0... at 100.00%
 >Cluster 2536
 0	15aa, >a0... *
 >Cluster 2537
@@ -5577,8 +5619,7 @@
 >Cluster 2543
 0	15aa, >a0... *
 >Cluster 2544
-0	13aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	15aa, >a0... *
 >Cluster 2545
 0	15aa, >a0... *
 >Cluster 2546
@@ -5596,213 +5637,230 @@
 >Cluster 2552
 0	15aa, >a0... *
 >Cluster 2553
-0	15aa, >a0... *
+0	14aa, >a0... at 100.00%
+1	15aa, >a0... *
+2	14aa, >a0... at 100.00%
 >Cluster 2554
 0	15aa, >a0... *
 >Cluster 2555
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2556
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2557
-0	15aa, >a0... *
+0	14aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2558
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2559
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2560
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2561
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2562
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2563
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2564
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2565
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2566
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2567
-0	15aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	12aa, >a0... at 100.00%
+2	13aa, >a0... at 100.00%
+3	14aa, >a0... *
 >Cluster 2568
-0	15aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	12aa, >a0... at 100.00%
+2	13aa, >a0... at 100.00%
+3	14aa, >a0... *
 >Cluster 2569
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2570
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2571
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2572
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2573
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2574
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2575
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2576
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2577
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	11aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
+3	13aa, >a0... at 100.00%
+4	14aa, >a0... *
 >Cluster 2578
-0	15aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	14aa, >a0... *
 >Cluster 2579
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2580
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2581
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	14aa, >a0... *
 >Cluster 2582
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2583
-0	15aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	14aa, >a0... *
 >Cluster 2584
-0	15aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	13aa, >a0... at 100.00%
+2	14aa, >a0... *
 >Cluster 2585
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2586
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2587
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2588
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2589
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2590
-0	15aa, >a0... *
-1	14aa, >a0... at 100.00%
+0	14aa, >a0... *
 >Cluster 2591
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2592
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2593
-0	13aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2594
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2595
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2596
-0	13aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2597
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2598
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2599
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2600
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2601
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2602
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2603
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2604
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2605
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2606
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2607
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2608
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2609
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2610
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2611
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2612
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2613
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2614
-0	14aa, >a0... at 100.00%
-1	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2615
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2616
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2617
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2618
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2619
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2620
-0	15aa, >a0... *
->Cluster 2621
-0	15aa, >a0... *
->Cluster 2622
-0	15aa, >a0... *
->Cluster 2623
-0	15aa, >a0... *
->Cluster 2624
-0	15aa, >a0... *
->Cluster 2625
-0	15aa, >a0... *
->Cluster 2626
-0	15aa, >a0... *
->Cluster 2627
-0	15aa, >a0... *
->Cluster 2628
-0	15aa, >a0... *
->Cluster 2629
-0	15aa, >a0... *
+0	14aa, >a0... *
 1	14aa, >a0... at 100.00%
+>Cluster 2621
+0	14aa, >a0... *
+1	14aa, >a0... at 100.00%
+>Cluster 2622
+0	14aa, >a0... *
+1	14aa, >a0... at 100.00%
+>Cluster 2623
+0	14aa, >a0... *
+>Cluster 2624
+0	14aa, >a0... *
+>Cluster 2625
+0	14aa, >a0... *
+>Cluster 2626
+0	14aa, >a0... *
+>Cluster 2627
+0	14aa, >a0... *
+>Cluster 2628
+0	14aa, >a0... *
+>Cluster 2629
+0	14aa, >a0... *
 >Cluster 2630
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2631
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2632
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2633
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2634
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2635
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2636
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2637
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2638
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2639
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2640
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2641
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2642
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2643
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2644
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2645
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2646
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2647
-0	15aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	14aa, >a0... *
 >Cluster 2648
-0	15aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	14aa, >a0... *
 >Cluster 2649
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2650
-0	15aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2651
 0	14aa, >a0... *
 >Cluster 2652
 0	14aa, >a0... *
 >Cluster 2653
 0	14aa, >a0... *
-1	13aa, >a0... at 100.00%
 >Cluster 2654
 0	14aa, >a0... *
 >Cluster 2655
@@ -5824,19 +5882,15 @@
 >Cluster 2663
 0	14aa, >a0... *
 >Cluster 2664
-0	11aa, >a0... at 100.00%
-1	12aa, >a0... at 100.00%
-2	13aa, >a0... at 100.00%
-3	14aa, >a0... *
+0	13aa, >a0... at 100.00%
+1	14aa, >a0... *
 >Cluster 2665
-0	11aa, >a0... at 100.00%
-1	12aa, >a0... at 100.00%
-2	13aa, >a0... at 100.00%
-3	14aa, >a0... *
+0	14aa, >a0... *
 >Cluster 2666
 0	14aa, >a0... *
 >Cluster 2667
 0	14aa, >a0... *
+1	14aa, >a0... at 100.00%
 >Cluster 2668
 0	14aa, >a0... *
 >Cluster 2669
@@ -5851,293 +5905,291 @@
 0	14aa, >a0... *
 >Cluster 2674
 0	14aa, >a0... *
-1	14aa, >a0... at 100.00%
 >Cluster 2675
 0	14aa, >a0... *
 >Cluster 2676
 0	14aa, >a0... *
 >Cluster 2677
-0	14aa, >a0... *
->Cluster 2678
 0	13aa, >a0... at 100.00%
-1	11aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
-3	13aa, >a0... at 100.00%
-4	14aa, >a0... *
->Cluster 2679
-0	12aa, >a0... at 100.00%
 1	14aa, >a0... *
+>Cluster 2678
+0	14aa, >a0... *
+>Cluster 2679
+0	14aa, >a0... *
 >Cluster 2680
 0	14aa, >a0... *
 >Cluster 2681
 0	14aa, >a0... *
 >Cluster 2682
-0	13aa, >a0... at 100.00%
-1	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2683
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2684
-0	13aa, >a0... at 100.00%
-1	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2685
-0	11aa, >a0... at 100.00%
-1	13aa, >a0... at 100.00%
-2	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2686
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2687
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2688
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2689
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2690
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2691
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2692
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2693
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2694
-0	14aa, >a0... *
+0	13aa, >a0... *
+1	13aa, >a0... at 100.00%
+2	13aa, >a0... at 100.00%
+3	13aa, >a0... at 100.00%
+4	13aa, >a0... at 100.00%
+5	13aa, >a0... at 100.00%
+6	13aa, >a0... at 100.00%
 >Cluster 2695
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2696
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2697
-0	14aa, >a0... *
+0	13aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2698
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2699
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2700
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2701
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2702
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2703
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2704
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2705
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2706
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2707
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2708
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2709
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2710
-0	14aa, >a0... *
->Cluster 2711
-0	14aa, >a0... *
->Cluster 2712
-0	14aa, >a0... *
->Cluster 2713
-0	14aa, >a0... *
->Cluster 2714
-0	14aa, >a0... *
->Cluster 2715
-0	14aa, >a0... *
-1	14aa, >a0... at 100.00%
->Cluster 2716
-0	14aa, >a0... *
->Cluster 2717
-0	14aa, >a0... *
->Cluster 2718
-0	14aa, >a0... *
->Cluster 2719
-0	14aa, >a0... *
->Cluster 2720
-0	14aa, >a0... *
->Cluster 2721
-0	14aa, >a0... *
->Cluster 2722
-0	14aa, >a0... *
->Cluster 2723
-0	14aa, >a0... *
->Cluster 2724
-0	14aa, >a0... *
->Cluster 2725
-0	14aa, >a0... *
->Cluster 2726
-0	14aa, >a0... *
->Cluster 2727
-0	14aa, >a0... *
->Cluster 2728
-0	14aa, >a0... *
->Cluster 2729
-0	14aa, >a0... *
->Cluster 2730
-0	14aa, >a0... *
->Cluster 2731
-0	14aa, >a0... *
->Cluster 2732
-0	14aa, >a0... *
->Cluster 2733
-0	14aa, >a0... *
->Cluster 2734
-0	14aa, >a0... *
->Cluster 2735
-0	14aa, >a0... *
->Cluster 2736
-0	14aa, >a0... *
->Cluster 2737
-0	14aa, >a0... *
->Cluster 2738
-0	14aa, >a0... *
->Cluster 2739
-0	14aa, >a0... *
->Cluster 2740
-0	14aa, >a0... *
->Cluster 2741
-0	14aa, >a0... *
->Cluster 2742
-0	14aa, >a0... *
->Cluster 2743
-0	14aa, >a0... *
->Cluster 2744
-0	14aa, >a0... *
->Cluster 2745
-0	14aa, >a0... *
->Cluster 2746
-0	14aa, >a0... *
->Cluster 2747
-0	12aa, >a0... at 100.00%
-1	14aa, >a0... *
->Cluster 2748
 0	11aa, >a0... at 100.00%
-1	14aa, >a0... *
+1	13aa, >a0... *
+>Cluster 2711
+0	13aa, >a0... *
+>Cluster 2712
+0	13aa, >a0... *
+>Cluster 2713
+0	13aa, >a0... *
+>Cluster 2714
+0	13aa, >a0... *
+1	13aa, >a0... at 100.00%
+>Cluster 2715
+0	13aa, >a0... *
+>Cluster 2716
+0	13aa, >a0... *
+>Cluster 2717
+0	13aa, >a0... *
+>Cluster 2718
+0	13aa, >a0... *
+>Cluster 2719
+0	13aa, >a0... *
+>Cluster 2720
+0	13aa, >a0... *
+>Cluster 2721
+0	13aa, >a0... *
+>Cluster 2722
+0	13aa, >a0... *
+>Cluster 2723
+0	13aa, >a0... *
+>Cluster 2724
+0	13aa, >a0... *
+>Cluster 2725
+0	13aa, >a0... *
+>Cluster 2726
+0	13aa, >a0... *
+>Cluster 2727
+0	13aa, >a0... *
+>Cluster 2728
+0	13aa, >a0... *
+>Cluster 2729
+0	13aa, >a0... *
+>Cluster 2730
+0	13aa, >a0... *
+>Cluster 2731
+0	13aa, >a0... *
+>Cluster 2732
+0	13aa, >a0... *
+>Cluster 2733
+0	13aa, >a0... *
+>Cluster 2734
+0	13aa, >a0... *
+>Cluster 2735
+0	13aa, >a0... *
+>Cluster 2736
+0	13aa, >a0... *
+>Cluster 2737
+0	13aa, >a0... *
+>Cluster 2738
+0	13aa, >a0... *
+>Cluster 2739
+0	13aa, >a0... *
+>Cluster 2740
+0	13aa, >a0... *
+>Cluster 2741
+0	13aa, >a0... *
+>Cluster 2742
+0	13aa, >a0... *
+>Cluster 2743
+0	13aa, >a0... *
+>Cluster 2744
+0	13aa, >a0... *
+>Cluster 2745
+0	13aa, >a0... *
+>Cluster 2746
+0	13aa, >a0... *
+>Cluster 2747
+0	13aa, >a0... *
+>Cluster 2748
+0	13aa, >a0... *
 >Cluster 2749
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2750
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2751
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2752
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2753
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2754
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2755
-0	14aa, >a0... *
+0	13aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2756
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2757
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2758
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2759
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2760
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2761
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2762
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2763
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2764
-0	13aa, >a0... at 100.00%
-1	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2765
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2766
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2767
-0	12aa, >a0... at 100.00%
-1	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2768
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2769
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2770
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2771
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2772
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2773
-0	14aa, >a0... *
+0	12aa, >a0... at 100.00%
+1	13aa, >a0... *
+2	11aa, >a0... at 100.00%
 >Cluster 2774
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2775
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2776
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2777
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2778
-0	13aa, >a0... at 100.00%
-1	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2779
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2780
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2781
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2782
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2783
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2784
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2785
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2786
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2787
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2788
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2789
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2790
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2791
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2792
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2793
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2794
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2795
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2796
-0	14aa, >a0... *
-1	12aa, >a0... at 100.00%
+0	12aa, >a0... at 100.00%
+1	13aa, >a0... *
 >Cluster 2797
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2798
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2799
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2800
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2801
-0	14aa, >a0... *
+0	13aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 2802
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2803
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2804
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2805
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2806
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2807
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2808
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2809
-0	14aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2810
 0	13aa, >a0... *
 >Cluster 2811
@@ -6160,14 +6212,11 @@
 0	13aa, >a0... *
 >Cluster 2820
 0	13aa, >a0... *
-1	12aa, >a0... at 100.00%
 >Cluster 2821
 0	13aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2822
 0	13aa, >a0... *
-1	12aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
-3	12aa, >a0... at 100.00%
 >Cluster 2823
 0	13aa, >a0... *
 >Cluster 2824
@@ -6197,8 +6246,7 @@
 >Cluster 2836
 0	13aa, >a0... *
 >Cluster 2837
-0	11aa, >a0... at 100.00%
-1	13aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2838
 0	13aa, >a0... *
 >Cluster 2839
@@ -6229,6 +6277,7 @@
 0	13aa, >a0... *
 >Cluster 2852
 0	13aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 2853
 0	13aa, >a0... *
 >Cluster 2854
@@ -6240,9 +6289,12 @@
 >Cluster 2857
 0	13aa, >a0... *
 >Cluster 2858
-0	13aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	13aa, >a0... *
+2	12aa, >a0... at 100.00%
 >Cluster 2859
 0	13aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 2860
 0	13aa, >a0... *
 >Cluster 2861
@@ -6255,6 +6307,7 @@
 0	13aa, >a0... *
 >Cluster 2865
 0	13aa, >a0... *
+1	13aa, >a0... at 100.00%
 >Cluster 2866
 0	13aa, >a0... *
 >Cluster 2867
@@ -6287,7 +6340,7 @@
 0	13aa, >a0... *
 >Cluster 2881
 0	13aa, >a0... *
-1	12aa, >a0... at 100.00%
+1	13aa, >a0... at 100.00%
 >Cluster 2882
 0	13aa, >a0... *
 >Cluster 2883
@@ -6323,9 +6376,7 @@
 >Cluster 2898
 0	13aa, >a0... *
 >Cluster 2899
-0	12aa, >a0... at 100.00%
-1	13aa, >a0... *
-2	11aa, >a0... at 100.00%
+0	13aa, >a0... *
 >Cluster 2900
 0	13aa, >a0... *
 >Cluster 2901
@@ -6335,7 +6386,8 @@
 >Cluster 2903
 0	13aa, >a0... *
 >Cluster 2904
-0	13aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	13aa, >a0... *
 >Cluster 2905
 0	13aa, >a0... *
 >Cluster 2906
@@ -6343,11 +6395,7 @@
 >Cluster 2907
 0	13aa, >a0... *
 >Cluster 2908
-0	12aa, >a0... at 100.00%
-1	12aa, >a0... at 100.00%
-2	12aa, >a0... at 100.00%
-3	13aa, >a0... *
-4	11aa, >a0... at 100.00%
+0	13aa, >a0... *
 >Cluster 2909
 0	13aa, >a0... *
 >Cluster 2910
@@ -6361,471 +6409,478 @@
 >Cluster 2914
 0	13aa, >a0... *
 >Cluster 2915
-0	13aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	11aa, >a0... at 100.00%
+2	13aa, >a0... *
 >Cluster 2916
 0	13aa, >a0... *
 >Cluster 2917
-0	12aa, >a0... at 100.00%
-1	13aa, >a0... *
+0	13aa, >a0... *
 >Cluster 2918
 0	13aa, >a0... *
 >Cluster 2919
 0	13aa, >a0... *
 >Cluster 2920
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2921
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2922
-0	13aa, >a0... *
-1	12aa, >a0... at 100.00%
+0	12aa, >a0... *
 >Cluster 2923
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2924
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2925
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2926
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2927
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2928
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2929
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2930
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2931
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2932
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2933
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2934
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2935
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2936
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2937
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2938
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2939
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2940
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2941
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2942
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2943
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2944
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2945
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2946
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2947
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2948
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2949
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2950
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2951
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2952
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2953
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2954
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2955
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2956
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2957
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2958
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2959
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2960
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2961
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2962
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2963
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2964
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2965
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2966
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2967
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2968
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2969
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2970
-0	13aa, >a0... *
-1	11aa, >a0... at 100.00%
+0	12aa, >a0... *
 >Cluster 2971
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2972
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2973
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2974
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2975
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2976
-0	11aa, >a0... at 100.00%
-1	13aa, >a0... *
-2	12aa, >a0... at 100.00%
+0	12aa, >a0... *
 >Cluster 2977
-0	13aa, >a0... *
-1	12aa, >a0... at 100.00%
+0	12aa, >a0... *
 >Cluster 2978
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2979
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2980
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2981
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2982
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2983
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2984
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2985
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2986
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2987
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2988
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2989
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2990
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2991
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2992
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2993
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2994
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2995
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2996
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2997
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2998
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 2999
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3000
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3001
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3002
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3003
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3004
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3005
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3006
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3007
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3008
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3009
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3010
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3011
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3012
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3013
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3014
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3015
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3016
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3017
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3018
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3019
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3020
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3021
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3022
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3023
-0	11aa, >a0... at 100.00%
-1	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3024
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3025
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3026
-0	13aa, >a0... *
->Cluster 3027
-0	13aa, >a0... *
->Cluster 3028
-0	13aa, >a0... *
->Cluster 3029
-0	13aa, >a0... *
->Cluster 3030
-0	13aa, >a0... *
->Cluster 3031
-0	13aa, >a0... *
->Cluster 3032
-0	13aa, >a0... *
->Cluster 3033
-0	13aa, >a0... *
->Cluster 3034
-0	13aa, >a0... *
->Cluster 3035
-0	13aa, >a0... *
->Cluster 3036
-0	13aa, >a0... *
->Cluster 3037
 0	11aa, >a0... at 100.00%
-1	11aa, >a0... at 100.00%
-2	13aa, >a0... *
+1	12aa, >a0... *
+>Cluster 3027
+0	12aa, >a0... *
+>Cluster 3028
+0	12aa, >a0... *
+>Cluster 3029
+0	12aa, >a0... *
+>Cluster 3030
+0	12aa, >a0... *
+>Cluster 3031
+0	12aa, >a0... *
+>Cluster 3032
+0	12aa, >a0... *
+>Cluster 3033
+0	12aa, >a0... *
+>Cluster 3034
+0	12aa, >a0... *
+>Cluster 3035
+0	12aa, >a0... *
+>Cluster 3036
+0	12aa, >a0... *
+1	12aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
+3	12aa, >a0... at 100.00%
+>Cluster 3037
+0	12aa, >a0... *
 >Cluster 3038
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3039
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3040
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3041
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3042
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3043
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3044
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3045
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3046
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 3047
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	12aa, >a0... at 100.00%
+2	12aa, >a0... at 100.00%
+3	12aa, >a0... at 100.00%
 >Cluster 3048
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3049
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3050
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3051
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3052
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3053
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3054
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3055
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3056
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3057
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3058
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3059
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3060
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3061
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3062
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3063
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3064
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3065
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3066
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3067
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3068
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3069
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3070
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3071
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3072
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3073
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3074
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3075
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3076
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3077
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3078
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3079
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3080
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3081
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3082
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3083
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3084
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3085
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3086
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3087
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3088
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3089
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3090
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3091
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3092
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3093
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 3094
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3095
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3096
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3097
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3098
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3099
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3100
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3101
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3102
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3103
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3104
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3105
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3106
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3107
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3108
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3109
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3110
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3111
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3112
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3113
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 3114
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3115
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 3116
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3117
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3118
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3119
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3120
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3121
-0	13aa, >a0... *
-1	13aa, >a0... at 100.00%
+0	12aa, >a0... *
 >Cluster 3122
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3123
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3124
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3125
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3126
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3127
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3128
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 3129
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3130
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3131
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3132
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3133
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3134
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3135
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3136
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	12aa, >a0... at 100.00%
 >Cluster 3137
-0	13aa, >a0... *
+0	11aa, >a0... at 100.00%
+1	12aa, >a0... *
 >Cluster 3138
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3139
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3140
-0	13aa, >a0... *
+0	12aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 3141
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3142
-0	13aa, >a0... *
+0	12aa, >a0... *
 >Cluster 3143
 0	12aa, >a0... *
 >Cluster 3144
@@ -6851,11 +6906,10 @@
 >Cluster 3154
 0	12aa, >a0... *
 >Cluster 3155
-0	12aa, >a0... *
-1	11aa, >a0... at 100.00%
+0	11aa, >a0... at 100.00%
+1	12aa, >a0... *
 >Cluster 3156
 0	12aa, >a0... *
-1	11aa, >a0... at 100.00%
 >Cluster 3157
 0	12aa, >a0... *
 >Cluster 3158
@@ -6893,871 +6947,389 @@
 >Cluster 3174
 0	12aa, >a0... *
 >Cluster 3175
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3176
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3177
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3178
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3179
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3180
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3181
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3182
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3183
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3184
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3185
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3186
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3187
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3188
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3189
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3190
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3191
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3192
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3193
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3194
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3195
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3196
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3197
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3198
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3199
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3200
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3201
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3202
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3203
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3204
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3205
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3206
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3207
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3208
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3209
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3210
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3211
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3212
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3213
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3214
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3215
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3216
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3217
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3218
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3219
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3220
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3221
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3222
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3223
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3224
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3225
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3226
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3227
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3228
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3229
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3230
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3231
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3232
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3233
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3234
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3235
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3236
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3237
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3238
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3239
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3240
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3241
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3242
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3243
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3244
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3245
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3246
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3247
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3248
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3249
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3250
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3251
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3252
-0	11aa, >a0... at 100.00%
-1	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3253
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3254
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3255
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3256
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3257
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3258
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3259
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3260
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3261
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3262
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3263
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3264
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3265
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3266
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3267
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3268
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3269
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3270
-0	11aa, >a0... at 100.00%
-1	12aa, >a0... *
-2	11aa, >a0... at 100.00%
+0	11aa, >a0... *
 >Cluster 3271
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3272
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3273
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3274
-0	12aa, >a0... *
+0	11aa, >a0... *
+1	11aa, >a0... at 100.00%
 >Cluster 3275
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3276
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3277
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3278
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3279
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3280
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3281
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3282
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3283
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3284
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3285
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3286
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3287
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3288
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3289
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3290
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3291
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3292
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3293
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3294
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3295
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3296
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3297
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3298
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3299
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3300
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3301
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3302
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3303
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3304
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3305
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3306
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3307
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3308
-0	12aa, >a0... *
+0	11aa, >a0... *
+1	11aa, >a0... at 100.00%
+2	11aa, >a0... at 100.00%
 >Cluster 3309
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3310
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3311
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3312
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3313
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3314
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3315
-0	12aa, >a0... *
-1	11aa, >a0... at 100.00%
+0	11aa, >a0... *
 >Cluster 3316
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3317
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3318
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3319
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3320
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3321
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3322
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3323
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3324
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3325
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3326
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3327
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3328
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3329
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3330
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3331
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3332
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3333
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3334
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3335
-0	12aa, >a0... *
-1	11aa, >a0... at 100.00%
+0	11aa, >a0... *
 >Cluster 3336
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3337
-0	12aa, >a0... *
-1	11aa, >a0... at 100.00%
+0	11aa, >a0... *
 >Cluster 3338
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3339
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3340
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3341
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3342
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3343
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3344
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3345
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3346
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3347
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3348
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3349
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3350
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3351
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3352
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3353
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3354
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3355
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3356
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3357
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3358
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3359
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3360
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3361
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3362
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3363
-0	11aa, >a0... at 100.00%
-1	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3364
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3365
-0	12aa, >a0... *
+0	11aa, >a0... *
 >Cluster 3366
-0	12aa, >a0... *
->Cluster 3367
-0	12aa, >a0... *
->Cluster 3368
-0	12aa, >a0... *
-1	11aa, >a0... at 100.00%
->Cluster 3369
-0	12aa, >a0... *
->Cluster 3370
-0	12aa, >a0... *
->Cluster 3371
-0	12aa, >a0... *
->Cluster 3372
-0	12aa, >a0... *
->Cluster 3373
-0	12aa, >a0... *
->Cluster 3374
-0	12aa, >a0... *
->Cluster 3375
-0	12aa, >a0... *
->Cluster 3376
-0	12aa, >a0... *
->Cluster 3377
-0	12aa, >a0... *
->Cluster 3378
-0	12aa, >a0... *
->Cluster 3379
-0	12aa, >a0... *
->Cluster 3380
-0	12aa, >a0... *
->Cluster 3381
-0	12aa, >a0... *
->Cluster 3382
-0	12aa, >a0... *
->Cluster 3383
-0	11aa, >a0... at 100.00%
-1	12aa, >a0... *
->Cluster 3384
-0	12aa, >a0... *
->Cluster 3385
-0	12aa, >a0... *
->Cluster 3386
-0	12aa, >a0... *
->Cluster 3387
-0	12aa, >a0... *
->Cluster 3388
-0	12aa, >a0... *
->Cluster 3389
-0	12aa, >a0... *
->Cluster 3390
-0	12aa, >a0... *
->Cluster 3391
-0	12aa, >a0... *
->Cluster 3392
-0	12aa, >a0... *
->Cluster 3393
-0	12aa, >a0... *
->Cluster 3394
-0	12aa, >a0... *
->Cluster 3395
-0	12aa, >a0... *
->Cluster 3396
-0	12aa, >a0... *
->Cluster 3397
-0	12aa, >a0... *
->Cluster 3398
-0	12aa, >a0... *
->Cluster 3399
-0	12aa, >a0... *
->Cluster 3400
-0	12aa, >a0... *
->Cluster 3401
-0	12aa, >a0... *
->Cluster 3402
-0	12aa, >a0... *
->Cluster 3403
-0	11aa, >a0... *
->Cluster 3404
-0	11aa, >a0... *
->Cluster 3405
-0	11aa, >a0... *
->Cluster 3406
-0	11aa, >a0... *
->Cluster 3407
-0	11aa, >a0... *
->Cluster 3408
-0	11aa, >a0... *
->Cluster 3409
-0	11aa, >a0... *
->Cluster 3410
-0	11aa, >a0... *
->Cluster 3411
-0	11aa, >a0... *
->Cluster 3412
-0	11aa, >a0... *
->Cluster 3413
-0	11aa, >a0... *
->Cluster 3414
-0	11aa, >a0... *
->Cluster 3415
-0	11aa, >a0... *
->Cluster 3416
-0	11aa, >a0... *
->Cluster 3417
-0	11aa, >a0... *
->Cluster 3418
-0	11aa, >a0... *
->Cluster 3419
-0	11aa, >a0... *
->Cluster 3420
-0	11aa, >a0... *
->Cluster 3421
-0	11aa, >a0... *
->Cluster 3422
-0	11aa, >a0... *
->Cluster 3423
-0	11aa, >a0... *
->Cluster 3424
-0	11aa, >a0... *
->Cluster 3425
-0	11aa, >a0... *
->Cluster 3426
-0	11aa, >a0... *
->Cluster 3427
-0	11aa, >a0... *
->Cluster 3428
-0	11aa, >a0... *
->Cluster 3429
-0	11aa, >a0... *
->Cluster 3430
-0	11aa, >a0... *
->Cluster 3431
-0	11aa, >a0... *
->Cluster 3432
-0	11aa, >a0... *
->Cluster 3433
-0	11aa, >a0... *
->Cluster 3434
-0	11aa, >a0... *
->Cluster 3435
-0	11aa, >a0... *
->Cluster 3436
-0	11aa, >a0... *
->Cluster 3437
-0	11aa, >a0... *
->Cluster 3438
-0	11aa, >a0... *
->Cluster 3439
-0	11aa, >a0... *
->Cluster 3440
-0	11aa, >a0... *
->Cluster 3441
-0	11aa, >a0... *
->Cluster 3442
-0	11aa, >a0... *
->Cluster 3443
-0	11aa, >a0... *
->Cluster 3444
-0	11aa, >a0... *
->Cluster 3445
-0	11aa, >a0... *
->Cluster 3446
-0	11aa, >a0... *
->Cluster 3447
-0	11aa, >a0... *
->Cluster 3448
-0	11aa, >a0... *
->Cluster 3449
-0	11aa, >a0... *
->Cluster 3450
-0	11aa, >a0... *
->Cluster 3451
-0	11aa, >a0... *
->Cluster 3452
-0	11aa, >a0... *
->Cluster 3453
-0	11aa, >a0... *
->Cluster 3454
-0	11aa, >a0... *
->Cluster 3455
-0	11aa, >a0... *
->Cluster 3456
-0	11aa, >a0... *
->Cluster 3457
-0	11aa, >a0... *
->Cluster 3458
-0	11aa, >a0... *
->Cluster 3459
-0	11aa, >a0... *
->Cluster 3460
-0	11aa, >a0... *
->Cluster 3461
-0	11aa, >a0... *
->Cluster 3462
-0	11aa, >a0... *
->Cluster 3463
-0	11aa, >a0... *
->Cluster 3464
-0	11aa, >a0... *
->Cluster 3465
-0	11aa, >a0... *
->Cluster 3466
-0	11aa, >a0... *
->Cluster 3467
-0	11aa, >a0... *
->Cluster 3468
-0	11aa, >a0... *
->Cluster 3469
-0	11aa, >a0... *
->Cluster 3470
-0	11aa, >a0... *
->Cluster 3471
-0	11aa, >a0... *
->Cluster 3472
-0	11aa, >a0... *
->Cluster 3473
-0	11aa, >a0... *
->Cluster 3474
-0	11aa, >a0... *
->Cluster 3475
-0	11aa, >a0... *
->Cluster 3476
-0	11aa, >a0... *
->Cluster 3477
-0	11aa, >a0... *
->Cluster 3478
-0	11aa, >a0... *
->Cluster 3479
-0	11aa, >a0... *
->Cluster 3480
-0	11aa, >a0... *
->Cluster 3481
-0	11aa, >a0... *
->Cluster 3482
-0	11aa, >a0... *
->Cluster 3483
-0	11aa, >a0... *
->Cluster 3484
-0	11aa, >a0... *
->Cluster 3485
-0	11aa, >a0... *
->Cluster 3486
-0	11aa, >a0... *
->Cluster 3487
-0	11aa, >a0... *
->Cluster 3488
-0	11aa, >a0... *
->Cluster 3489
-0	11aa, >a0... *
->Cluster 3490
-0	11aa, >a0... *
->Cluster 3491
-0	11aa, >a0... *
->Cluster 3492
-0	11aa, >a0... *
->Cluster 3493
-0	11aa, >a0... *
->Cluster 3494
-0	11aa, >a0... *
->Cluster 3495
-0	11aa, >a0... *
->Cluster 3496
-0	11aa, >a0... *
->Cluster 3497
-0	11aa, >a0... *
->Cluster 3498
-0	11aa, >a0... *
->Cluster 3499
-0	11aa, >a0... *
->Cluster 3500
-0	11aa, >a0... *
->Cluster 3501
-0	11aa, >a0... *
->Cluster 3502
-0	11aa, >a0... *
->Cluster 3503
-0	11aa, >a0... *
->Cluster 3504
-0	11aa, >a0... *
->Cluster 3505
-0	11aa, >a0... *
->Cluster 3506
-0	11aa, >a0... *
->Cluster 3507
-0	11aa, >a0... *
->Cluster 3508
-0	11aa, >a0... *
->Cluster 3509
-0	11aa, >a0... *
->Cluster 3510
-0	11aa, >a0... *
->Cluster 3511
-0	11aa, >a0... *
->Cluster 3512
-0	11aa, >a0... *
->Cluster 3513
-0	11aa, >a0... *
->Cluster 3514
-0	11aa, >a0... *
->Cluster 3515
-0	11aa, >a0... *
->Cluster 3516
-0	11aa, >a0... *
->Cluster 3517
-0	11aa, >a0... *
->Cluster 3518
-0	11aa, >a0... *
->Cluster 3519
-0	11aa, >a0... *
->Cluster 3520
-0	11aa, >a0... *
->Cluster 3521
-0	11aa, >a0... *
->Cluster 3522
-0	11aa, >a0... *
->Cluster 3523
-0	11aa, >a0... *
->Cluster 3524
-0	11aa, >a0... *
->Cluster 3525
-0	11aa, >a0... *
->Cluster 3526
-0	11aa, >a0... *
->Cluster 3527
-0	11aa, >a0... *
->Cluster 3528
-0	11aa, >a0... *
->Cluster 3529
-0	11aa, >a0... *
->Cluster 3530
-0	11aa, >a0... *
->Cluster 3531
-0	11aa, >a0... *
->Cluster 3532
-0	11aa, >a0... *
->Cluster 3533
-0	11aa, >a0... *
->Cluster 3534
-0	11aa, >a0... *
->Cluster 3535
-0	11aa, >a0... *
->Cluster 3536
-0	11aa, >a0... *
->Cluster 3537
-0	11aa, >a0... *
->Cluster 3538
-0	11aa, >a0... *
->Cluster 3539
-0	11aa, >a0... *
->Cluster 3540
-0	11aa, >a0... *
->Cluster 3541
-0	11aa, >a0... *
->Cluster 3542
-0	11aa, >a0... *
->Cluster 3543
-0	11aa, >a0... *
->Cluster 3544
-0	11aa, >a0... *
->Cluster 3545
-0	11aa, >a0... *
->Cluster 3546
-0	11aa, >a0... *
->Cluster 3547
-0	11aa, >a0... *
->Cluster 3548
-0	11aa, >a0... *
->Cluster 3549
-0	11aa, >a0... *
->Cluster 3550
-0	11aa, >a0... *
->Cluster 3551
-0	11aa, >a0... *
->Cluster 3552
-0	11aa, >a0... *
->Cluster 3553
-0	11aa, >a0... *
->Cluster 3554
-0	11aa, >a0... *
->Cluster 3555
-0	11aa, >a0... *
->Cluster 3556
-0	11aa, >a0... *
->Cluster 3557
-0	11aa, >a0... *
->Cluster 3558
-0	11aa, >a0... *
->Cluster 3559
-0	11aa, >a0... *
->Cluster 3560
-0	11aa, >a0... *
->Cluster 3561
-0	11aa, >a0... *
->Cluster 3562
-0	11aa, >a0... *
->Cluster 3563
-0	11aa, >a0... *
->Cluster 3564
-0	11aa, >a0... *
->Cluster 3565
-0	11aa, >a0... *
->Cluster 3566
-0	11aa, >a0... *
->Cluster 3567
-0	11aa, >a0... *
->Cluster 3568
-0	11aa, >a0... *
->Cluster 3569
-0	11aa, >a0... *
->Cluster 3570
-0	11aa, >a0... *
->Cluster 3571
-0	11aa, >a0... *
->Cluster 3572
-0	11aa, >a0... *
->Cluster 3573
-0	11aa, >a0... *
->Cluster 3574
-0	11aa, >a0... *
->Cluster 3575
-0	11aa, >a0... *
->Cluster 3576
-0	11aa, >a0... *
->Cluster 3577
-0	11aa, >a0... *
->Cluster 3578
-0	11aa, >a0... *
->Cluster 3579
-0	11aa, >a0... *
->Cluster 3580
-0	11aa, >a0... *
->Cluster 3581
-0	11aa, >a0... *
->Cluster 3582
-0	11aa, >a0... *
->Cluster 3583
-0	11aa, >a0... *
->Cluster 3584
-0	11aa, >a0... *
->Cluster 3585
-0	11aa, >a0... *
->Cluster 3586
-0	11aa, >a0... *
->Cluster 3587
-0	11aa, >a0... *
->Cluster 3588
-0	11aa, >a0... *
->Cluster 3589
-0	11aa, >a0... *
->Cluster 3590
-0	11aa, >a0... *
->Cluster 3591
-0	11aa, >a0... *
->Cluster 3592
-0	11aa, >a0... *
->Cluster 3593
-0	11aa, >a0... *
->Cluster 3594
-0	11aa, >a0... *
->Cluster 3595
-0	11aa, >a0... *
->Cluster 3596
-0	11aa, >a0... *
->Cluster 3597
-0	11aa, >a0... *
->Cluster 3598
-0	11aa, >a0... *
->Cluster 3599
-0	11aa, >a0... *
->Cluster 3600
-0	11aa, >a0... *
->Cluster 3601
-0	11aa, >a0... *
->Cluster 3602
-0	11aa, >a0... *
->Cluster 3603
-0	11aa, >a0... *
->Cluster 3604
 0	11aa, >a0... *
