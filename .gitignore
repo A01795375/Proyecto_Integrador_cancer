@@ -172,3 +172,5 @@ cython_debug/
 #.idea/
 
 compout_*
+imput_sam.csv
+tempfile_out
