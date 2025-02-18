@@ -174,3 +174,6 @@ cython_debug/
 notebooks/compout_*
 notebooks/imput_sam.csv
 notebooks/tempfile_out
+models/hemo
+models/sol
+models/nf
