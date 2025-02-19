@@ -52,19 +52,23 @@ def aplicar_pca(data, threshold = 0.90):
     df_pca = pd.DataFrame(X_pca, columns=pca_columns)
     return df_pca
 
+def escalado(data):
+  # Crear una instancia del StandardScaler
+  scaler = StandardScaler()
+  # Ajustar y transformar los datos
+  scaled_data = scaler.fit_transform(data)
+  # Convertir los datos escalados a un DataFrame
+  df_scaled = pd.DataFrame(scaled_data, columns=data.columns)
+  # Mostrar los datos escalados
+  return  df_scaled
+
 def pfeature_process(cd_hit_path):
     feature_pcp = pcp(cd_hit_path)
     feature_ctd = ctd(cd_hit_path)
     feature_rri = rri(cd_hit_path)
     df_pfeatures = feature_pcp.merge(feature_ctd, how='inner', left_index=True, right_index=True)
     df_pfeatures = df_pfeatures.merge(feature_rri, how='inner', left_index=True, right_index=True)
-    #PCA
-    total_components = df_pfeatures.shape[1]
-    pca = PCA()
-    pca_fit = pca.fit_transform(df_pfeatures)
-    num_components = 20
-    pc_df = pd.DataFrame(abs(pca.components_[:num_components]), columns = df_pfeatures.columns)
-    pca_pfeatures = aplicar_pca(df_pfeatures)
-    pca_pfeatures.index = get_seqs(cd_hit_path)
-    return pca_pfeatures
+    df_pfeatures = escalado(df_pfeatures)
+    
+    return df_pfeatures
     
