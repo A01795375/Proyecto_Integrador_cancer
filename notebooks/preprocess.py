@@ -62,13 +62,16 @@ def escalado(data):
   # Mostrar los datos escalados
   return  df_scaled
 
-def pfeature_process(cd_hit_path):
+def pfeature_process(cd_hit_path, file_path):
     feature_pcp = pcp(cd_hit_path)
     feature_ctd = ctd(cd_hit_path)
     feature_rri = rri(cd_hit_path)
     df_pfeatures = feature_pcp.merge(feature_ctd, how='inner', left_index=True, right_index=True)
     df_pfeatures = df_pfeatures.merge(feature_rri, how='inner', left_index=True, right_index=True)
     df_pfeatures = escalado(df_pfeatures)
+    seqs = get_seqs(cd_hit_path) 
+    df_pfeatures.index = seqs
+    df_pfeatures.to_csv(file_path, index=True, index_label='Sequence')
     
     return df_pfeatures
     
